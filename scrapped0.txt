@@ -1,0 +1,1795 @@
+<!doctype html>
+<html>
+ <head>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta charset="utf-8">
+  <title>Livres fantastiques et science-fiction d'occasion sur momox-shop</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="format-detection" content="telephone=no">
+  <meta name="theme-color" content="#005585">
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <meta name="ROBOTS" content="NOINDEX, FOLLOW">
+  <meta name="description" content="Achetez les meilleures romans fantastiques et livres de science-fiction à petits prix sur momox-shop. Large sélection à découvrir dès maintenant!">
+  <meta property="og:site" content="https://www.momox-shop.fr/">
+  <meta property="og:site_name" content="momox-shop">
+  <meta property="fb:app_id" content="144164808963706">
+  <meta property="og:title" content="Fantastique et science fiction d'occasion, à acheter en ligne sur momox-shop.fr">
+  <meta property="og:url" content="https://www.momox-shop.fr/livres-fantastique-et-science-fiction-C056/">
+  <meta property="og:type" content="website">
+  <meta property="og:description" content="Achetez les meilleures romans fantastiques et livres de science-fiction à petits prix sur momox-shop. Large sélection à découvrir dès maintenant!">
+  <meta property="og:image" content="https://www.momox-shop.fr/img/momox-og-logo.svg">
+  <meta name="google-site-verification" content="8uhbZkr9TJoHprHVKrxqNiQVywj6uqGYAQX-gukxQa4">
+  <meta name="next-head-count" content="33">
+ </head>
+ <body>
+  <div id="__next">
+   <div class="layout-page--default">
+    <div>
+     <div class="header">
+      <div class="brand-bar">
+       <div class="brand-bar__items">
+        <a href="https://www.momox.fr/" target="_blank" rel="noopener noreferrer" class="brand-bar__item brand-bar__item--momox">
+         <div class="brand-bar__icon brand-bar__icon--momox">
+          <img src="/img/momox-logo.svg" alt="Momox logo">
+         </div>Vendre des livres et plus</a><a href="https://www.momox-shop.fr/" target="_blank" rel="noopener noreferrer" class="brand-bar__item brand-bar__item--momox-shop">
+         <div class="brand-bar__icon brand-bar__icon--momox-shop">
+          <img src="/img/momox-shop-logo1.svg" alt="momox shop logo">
+         </div>Acheter des livres et plus</a><a href="https://momoxfashion.com/fr/" target="_blank" rel="noopener noreferrer" class="brand-bar__item brand-bar__item--momox-fashion">
+         <div class="brand-bar__icon brand-bar__icon--momox-fashion">
+          <img src="/img/mf-logo.svg" alt="Momox fashion logo">
+         </div>Acheter des vêtements</a>
+       </div>
+      </div>
+      <div class="header__grid">
+       <div class="header__blue header__blue--left"></div>
+       <div class="header__blue header__blue--right"></div>
+       <div class="header__logo">
+        <a class="logo" href="/"><img src="/img/momox-shop-logo1.svg" aria-label="momoxshop logo" alt="momoxshop logo" class="logo__svg logo__svg--fra"></a>
+       </div>
+       <div class="ox-content ox-content--content-box header__content">
+        <div style="padding-left:0px;height:42px;padding-top:5px;width:202px">
+         <a href="/Frais-d-exp-dition/" class="mx-ga-sendOnClickEvent" rel="noopener"> <img class="bannertest" alt="Promo d`été" src="https://cms.medimops.eu/out/pictures/teaser/mm_fr_header_KW33_sommersale.webp"> </a>
+        </div>
+       </div>
+       <div class="user-navigation">
+        <a class="user-navigation__wishlist" href="/Mes-Listes/"><img src="/img/svg/header/heart.svg" alt="user wishlist"><span class="user-navigation__text">Favoris</span></a><a class="user-navigation__login" href="/Mon-compte/"><img src="/img/svg/header/user.svg" alt="user login"><span class="user-navigation__text">Se connecter</span></a>
+       </div>
+       <div class="header__flyout">
+        <div class="category-flyout">
+         <a class="hide-on-mobile" role="button" tabindex="0">
+          <div class="category-flyout__title">
+           <span class="category-flyout__title__description category-flyout__title__description--fra">Toutes catégories</span>
+           <div class="category-flyout__title__caret">
+            <span class="category-flyout__title__caret--down"></span>
+           </div>
+           <div class="category-flyout__gap-filler"></div>
+          </div></a><a class="hide-on-desktop" role="button" tabindex="0">
+          <div class="category-flyout__burger">
+           <div class="category-flyout__burger__bar"></div>
+          </div></a>
+         <div class="category-flyout__flyout">
+          <ul class="category-flyout__general-links-list">
+           <li class="category-flyout__general-link-item"><span class="category-flyout__general-link-item__icon"><img src="/img/svg/header/home.svg" alt="home"></span><span><a role="button" tabindex="0" href="/">Page d'accueil</a></span></li>
+           <li class="category-flyout__general-link-item"><span class="category-flyout__general-link-item__icon"><img src="/img/svg/header/mail.svg" alt="mail"></span><span><a role="button" tabindex="0" href="/Newsletter/">Newsletter</a></span></li>
+          </ul>
+          <ul class="category-flyout__categories">
+           <li class="category-flyout__category" style="-ms-grid-column:1">
+            <div class="category-flyout__category-icon">
+             <span><img src="/img/svg/header/book.svg" alt="book" class="category-flyout__categories__icon"></span>
+            </div>
+            <div class="category-flyout__category-title">
+             <a role="button" tabindex="0" href="/livres-C08/">Livres</a>
+            </div>
+            <div class="category-flyout__category-dropdown-icon">
+             <a role="button" tabindex="0"><span></span></a>
+            </div>
+            <div class="category-flyout__sub-categories">
+             <ul>
+              <li data-category="Meilleures ventes" class="category-flyout__sub-category"><a role="button" tabindex="0" href="/livres-bestsellers/">Meilleures ventes</a></li>
+              <li data-category="Romans &amp; Littérature" class="category-flyout__sub-category"><a role="button" tabindex="0" href="/livres-romans-et-litterature-C055/">Romans &amp; Littérature</a></li>
+              <li data-category="Polars &amp; Thrillers" class="category-flyout__sub-category"><a role="button" tabindex="0" href="/livres-romans-et-litterature-thrillers-C0160/">Polars &amp; Thrillers</a></li>
+              <li data-category="BD &amp; Humour" class="category-flyout__sub-category"><a role="button" tabindex="0" href="/livres-bd-C058/">BD &amp; Humour</a></li>
+              <li data-category="Mangas" class="category-flyout__sub-category"><a role="button" tabindex="0" href="/livres-manga-C057/">Mangas</a></li>
+              <li data-category="Livres Ados &amp; Jeunes Adultes" class="category-flyout__sub-category"><a role="button" tabindex="0" href="/livres-adolescents-science-fiction-et-fantastiques-C0204/">Livres Ados &amp; Jeunes Adultes</a></li>
+              <li data-category="Livres Jeunesse" class="category-flyout__sub-category"><a role="button" tabindex="0" href="/livres-enfants-C059/">Livres Jeunesse</a></li>
+              <li data-category="Livres Scolaires" class="category-flyout__sub-category"><a role="button" tabindex="0" href="/livres-scolaires-occasion/">Livres Scolaires</a></li>
+              <li data-category="Livres Universitaires" class="category-flyout__sub-category"><a role="button" tabindex="0" href="/livres-etudes-superieures-C079/">Livres Universitaires</a></li>
+              <li data-category="Théâtre" class="category-flyout__sub-category"><a role="button" tabindex="0" href="/livres-romans-et-litterature-theatre-C088/">Théâtre</a></li>
+              <li data-category="Poésie" class="category-flyout__sub-category"><a role="button" tabindex="0" href="/livres-romans-et-litterature-poesie-C087/">Poésie</a></li>
+              <li data-category="Ils font l'actualité" class="category-flyout__sub-category"><a role="button" tabindex="0" href="/livres-actualite/">Ils font l'actualité</a></li>
+              <li class="category-flyout__sub-categories__more"><a role="button" tabindex="0" href="/livres-C08/">Tout <!-- -->Livres</a></li>
+             </ul>
+            </div></li>
+           <li class="category-flyout__category" style="-ms-grid-column:2">
+            <div class="category-flyout__category-icon">
+             <span><img src="/img/svg/header/headphones.svg" alt="headphones" class="category-flyout__categories__icon"></span>
+            </div>
+            <div class="category-flyout__category-title">
+             <a role="button" tabindex="0" href="/musique-C011/">Musique</a>
+            </div>
+            <div class="category-flyout__category-dropdown-icon">
+             <a role="button" tabindex="0"><span></span></a>
+            </div>
+            <div class="category-flyout__sub-categories">
+             <ul>
+              <li data-category="Vinyles" class="category-flyout__sub-category"><a role="button" tabindex="0" href="/vinyles-occasion/">Vinyles</a></li>
+              <li data-category="Hard Rock &amp; Metal" class="category-flyout__sub-category"><a role="button" tabindex="0" href="/musique-hard-rock-et-metal-C043/">Hard Rock &amp; Metal</a></li>
+              <li data-category="Classique " class="category-flyout__sub-category"><a role="button" tabindex="0" href="/musique-musique-classique-C035/">Classique </a></li>
+              <li data-category="Vinyles Rock &amp; Metal" class="category-flyout__sub-category"><a role="button" tabindex="0" href="/musique-hard-rock-et-metal-C043/Vinyl,/">Vinyles Rock &amp; Metal</a></li>
+              <li data-category="Jazz " class="category-flyout__sub-category"><a role="button" tabindex="0" href="/musique-jazz-C045/">Jazz </a></li>
+              <li data-category="Rap &amp; Hip-Hop" class="category-flyout__sub-category"><a role="button" tabindex="0" href="/musique-rap-et-hip-hop-C050/">Rap &amp; Hip-Hop</a></li>
+              <li data-category="Pop" class="category-flyout__sub-category"><a role="button" tabindex="0" href="/musique-pop-C033/">Pop</a></li>
+              <li data-category="Variété française " class="category-flyout__sub-category"><a role="button" tabindex="0" href="/musique-chanson-francaise-C037/">Variété française </a></li>
+              <li data-category="Bandes originales" class="category-flyout__sub-category"><a role="button" tabindex="0" href="/musique-bandes-originales-C032/">Bandes originales</a></li>
+              <li data-category="Électro" class="category-flyout__sub-category"><a role="button" tabindex="0" href="/musique-musique-electro-C040/">Électro</a></li>
+              <li data-category="Chansons Noël " class="category-flyout__sub-category"><a role="button" tabindex="0" href="/musique-chansons-de-noel-C054/">Chansons Noël </a></li>
+              <li class="category-flyout__sub-categories__more"><a role="button" tabindex="0" href="/musique-C011/">Tout <!-- -->Musique</a></li>
+             </ul>
+            </div></li>
+           <li class="category-flyout__category" style="-ms-grid-column:3">
+            <div class="category-flyout__category-icon">
+             <span><img src="/img/svg/header/film-alt.svg" alt="film-alt" class="category-flyout__categories__icon"></span>
+            </div>
+            <div class="category-flyout__category-title">
+             <a role="button" tabindex="0" href="/films-C09/">Films</a>
+            </div>
+            <div class="category-flyout__category-dropdown-icon">
+             <a role="button" tabindex="0"><span></span></a>
+            </div>
+            <div class="category-flyout__sub-categories">
+             <ul>
+              <li data-category="Action &amp; Policier" class="category-flyout__sub-category"><a role="button" tabindex="0" href="/films-action-policier-C014/">Action &amp; Policier</a></li>
+              <li data-category="Comédie" class="category-flyout__sub-category"><a role="button" tabindex="0" href="/films-comedie-C013/">Comédie</a></li>
+              <li data-category="Séries TV" class="category-flyout__sub-category"><a role="button" tabindex="0" href="/films-serie-tv-C012/">Séries TV</a></li>
+              <li data-category="Dessins animés" class="category-flyout__sub-category"><a role="button" tabindex="0" href="/films-enfant-dessin-anime-C020/">Dessins animés</a></li>
+              <li data-category="Romance" class="category-flyout__sub-category"><a role="button" tabindex="0" href="/films-romance-C028/">Romance</a></li>
+              <li data-category="Grands classiques" class="category-flyout__sub-category"><a role="button" tabindex="0" href="/films-grands-classiques-C027/">Grands classiques</a></li>
+              <li data-category="Fantastique" class="category-flyout__sub-category"><a role="button" tabindex="0" href="/films-fantastique-C018/">Fantastique</a></li>
+              <li data-category="Horreur" class="category-flyout__sub-category"><a role="button" tabindex="0" href="/films-horreur-C022/">Horreur</a></li>
+              <li data-category="Documentaires" class="category-flyout__sub-category"><a role="button" tabindex="0" href="/films-documentaire-C017/">Documentaires</a></li>
+              <li data-category="Western " class="category-flyout__sub-category"><a role="button" tabindex="0" href="/films-western-C025/">Western </a></li>
+              <li data-category="100 comédies françaises cultes" class="category-flyout__sub-category"><a role="button" tabindex="0" href="/top-100-des-meilleures-comedies-francaises/">100 comédies françaises cultes</a></li>
+              <li class="category-flyout__sub-categories__more"><a role="button" tabindex="0" href="/films-C09/">Tout <!-- -->Films</a></li>
+             </ul>
+            </div></li>
+           <li class="category-flyout__category" style="-ms-grid-column:4">
+            <div class="category-flyout__category-icon">
+             <span><img src="/img/svg/header/gamepad-alt.svg" alt="gamepad-alt" class="category-flyout__categories__icon"></span>
+            </div>
+            <div class="category-flyout__category-title">
+             <a role="button" tabindex="0" href="/jeux-video-C07/">Jeux vidéo</a>
+            </div>
+            <div class="category-flyout__category-dropdown-icon">
+             <a role="button" tabindex="0"><span></span></a>
+            </div>
+            <div class="category-flyout__sub-categories">
+             <ul>
+              <li data-category="PlayStation 5" class="category-flyout__sub-category"><a role="button" tabindex="0" href="/jeux-video-playstation-5-C0195/">PlayStation 5</a></li>
+              <li data-category="PlayStation 4" class="category-flyout__sub-category"><a role="button" tabindex="0" href="/jeux-video-playstation-4-C0144/">PlayStation 4</a></li>
+              <li data-category="Jeux Xbox One" class="category-flyout__sub-category"><a role="button" tabindex="0" href="/jeux-video-xbox-one-C0148/">Jeux Xbox One</a></li>
+              <li data-category="Xbox 360" class="category-flyout__sub-category"><a role="button" tabindex="0" href="/jeux-video-xbox-360-C0151/">Xbox 360</a></li>
+              <li data-category="Jeux Wii" class="category-flyout__sub-category"><a role="button" tabindex="0" href="/jeux-video-wii-C0146/">Jeux Wii</a></li>
+              <li data-category="Jeux Switch" class="category-flyout__sub-category"><a role="button" tabindex="0" href="/jeux-video-nintendo-switch-C0152/">Jeux Switch</a></li>
+              <li data-category="Jeux PC" class="category-flyout__sub-category"><a role="button" tabindex="0" href="/jeux-video-pc-C0145/">Jeux PC</a></li>
+              <li data-category="Jeux GC (Gamecube)" class="category-flyout__sub-category"><a role="button" tabindex="0" href="/jeux-video-gamecube-C0149/">Jeux GC (Gamecube)</a></li>
+              <li data-category="PSP" class="category-flyout__sub-category"><a role="button" tabindex="0" href="/jeux-video-psp-C0158/">PSP</a></li>
+              <li data-category="PlayStation 3" class="category-flyout__sub-category"><a role="button" tabindex="0" href="/jeux-video-playstation-3-C0143/">PlayStation 3</a></li>
+              <li data-category="PlayStation 2" class="category-flyout__sub-category"><a role="button" tabindex="0" href="/jeux-video-playstation-2-C0142/">PlayStation 2</a></li>
+              <li class="category-flyout__sub-categories__more"><a role="button" tabindex="0" href="/jeux-video-C07/">Tout <!-- -->Jeux vidéo</a></li>
+             </ul>
+            </div></li>
+           <li class="category-flyout__category" style="-ms-grid-column:5">
+            <div class="category-flyout__category-icon">
+             <span><img src="/img/svg/header/star.svg" alt="star" class="category-flyout__categories__icon"></span>
+            </div>
+            <div class="category-flyout__category-title">
+             <a role="button" tabindex="0" href="/acheter-ou-vendre-sur-momox/">Vendre livres, CD, DVD</a>
+            </div>
+            <div class="category-flyout__category-dropdown-icon">
+             <a role="button" tabindex="0"><span></span></a>
+            </div>
+            <div class="category-flyout__sub-categories">
+             <ul>
+              <li data-category="Nos recommandations " class="category-flyout__sub-category"><a role="button" tabindex="0" href="/nos-recommandations/">Nos recommandations </a></li>
+              <li data-category="100 livres à lire" class="category-flyout__sub-category"><a role="button" tabindex="0" href="/100-livres-lire-dans-sa-vie/">100 livres à lire</a></li>
+              <li data-category="100 films/séries TV à voir " class="category-flyout__sub-category"><a role="button" tabindex="0" href="/100-films-et-series-tv-a-voir-absolument/">100 films/séries TV à voir </a></li>
+              <li data-category="L'univers Harry Potter" class="category-flyout__sub-category"><a role="button" tabindex="0" href="/harry-potter/">L'univers Harry Potter</a></li>
+              <li data-category="L'univers Disney" class="category-flyout__sub-category"><a role="button" tabindex="0" href="/univers-disney/">L'univers Disney</a></li>
+              <li data-category="Pléiade" class="category-flyout__sub-category"><a role="button" tabindex="0" href="/bibliotheque-de-la-pleiade/">Pléiade</a></li>
+              <li data-category="Univers de Noël " class="category-flyout__sub-category"><a role="button" tabindex="0" href="/univers-noel/">Univers de Noël </a></li>
+              <li data-category="Romans Feel Good" class="category-flyout__sub-category"><a role="button" tabindex="0" href="/romans-feel-good/">Romans Feel Good</a></li>
+              <li data-category="Nos coups de cœur " class="category-flyout__sub-category"><a role="button" tabindex="0" href="/coup-de-coeur/">Nos coups de cœur </a></li>
+              <li data-category="Developpement durable" class="category-flyout__sub-category"><a role="button" tabindex="0" href="/developpement-durable/">Developpement durable</a></li>
+              <li data-category="Développement personnel" class="category-flyout__sub-category"><a role="button" tabindex="0" href="/developpement-personnel/">Développement personnel</a></li>
+              <li data-category="Prix littéraires" class="category-flyout__sub-category"><a role="button" tabindex="0" href="/prix-litteraires/">Prix littéraires</a></li>
+              <li class="category-flyout__sub-categories__more"><a role="button" tabindex="0" href="/acheter-ou-vendre-sur-momox/">Tout <!-- -->Vendre livres, CD, DVD</a></li>
+             </ul>
+            </div></li>
+          </ul>
+          <ul class="category-flyout__action-boxes">
+           <li class="category-flyout__action-box category-flyout__action-box--zum-sale">
+            <div class="category-flyout__action-box__icon"></div>
+            <div class="category-flyout__action-box__title">
+             BONS PLANS
+            </div>
+            <div class="category-flyout__action-box__description">
+             <p>Dans la rubrique Bons plans, vous trouverez des articles à prix particulièrement avantageux et les promotions du moment.</p>
+            </div>
+            <div class="category-flyout__action-box__button">
+             <a role="button" tabindex="0" href="/sale/">Vers les promos</a>
+            </div></li>
+           <li class="category-flyout__action-box category-flyout__action-box--zum-momox">
+            <div class="category-flyout__action-box__icon">
+             <img src="/img/momox-logo.svg" aria-label="momox">
+            </div>
+            <div class="category-flyout__action-box__title">
+             Vendre
+            </div>
+            <div class="category-flyout__action-box__description">
+             <p>Vous souhaitez vous séparer de vos livres, CD, films ou jeux ? Vendez-les sur momox.fr</p>
+            </div>
+            <div class="category-flyout__action-box__button">
+             <a role="button" tabindex="0" href="https://www.momox.fr/">Aller sur momox.fr</a>
+            </div></li>
+          </ul>
+          <ul class="category-flyout__authentication-links-list">
+           <li class="category-flyout__authentication-link-item"><span class="category-flyout__authentication-link-icon"><img src="/img/svg/header/user-mobile.svg" alt="user"></span><span class="category-flyout__authentication-link-text"><a role="button" tabindex="0" href="/Mon-compte/">Se connecter</a></span></li>
+           <li class="category-flyout__authentication-link-item"><span class="category-flyout__authentication-link-icon"><img src="/img/svg/header/new-user.svg" alt="new user" class="category-flyout__authentication-link-icon__new-user"></span><span class="category-flyout__authentication-link-text"><a role="button" tabindex="0" href="/Inscription/">Créer un compte</a></span></li>
+          </ul>
+          <ul class="category-flyout__external-links">
+           <a href="https://www.momox.fr/">
+            <li class="category-flyout__external-links-item category-flyout__external-links-item--momox"><img src="/img/momox-logo.svg" aria-label="momox logo" class="category-flyout__external-links-item-icon"><span class="category-flyout__external-links-item-text">Vendre des livres et plus</span></li></a><a href="https://www.momox-shop.fr/">
+            <li class="category-flyout__external-links-item category-flyout__external-links-item--momox-shop"><img src="/img/momox-shop-logo1.svg" aria-label="momox-shop logo" class="category-flyout__external-links-item-icon"><span class="category-flyout__external-links-item-text">Acheter des livres et plus</span></li></a><a href="https://momoxfashion.com/fr/">
+            <li class="category-flyout__external-links-item category-flyout__external-links-item--momox-fashion"><img src="/img/mf-logo.svg" aria-label="momox-fashion logo" class="category-flyout__external-links-item-icon"><span class="category-flyout__external-links-item-text">Acheter des vêtements</span></li></a>
+          </ul>
+         </div>
+        </div>
+       </div>
+       <div class="header__search">
+        <div class="search">
+         <form class="search__form" action="#" autocomplete="off">
+          <div class="dropdown search__dropdown">
+           <span>Tout</span><select><option value="https://www.momox-shop.fr/produits-C0/">Tout</option><option value="https://www.momox-shop.fr/logiciels-C010/">Logiciels</option><option value="https://www.momox-shop.fr/musique-C011/">Musique</option><option value="https://www.momox-shop.fr/jeux-video-C07/">Jeux vidéo</option><option value="https://www.momox-shop.fr/livres-C08/">Livres</option><option value="https://www.momox-shop.fr/films-C09/">Films</option><option value="https://www.momox-shop.fr/produits-C0/?campaign=all">Sale</option></select>
+          </div><input type="text" value="" class="search__text-field" name="searchparam" placeholder="Saisir un mot-clé" aria-label="Recherche"><a href="#" class="search__clear ">x</a><button class="search__submit" type="submit" value="" aria-label="Démarrer la recherche"><img src="/img/svg/header/search.svg" alt="search" width="20" height="18"></button>
+         </form>
+         <ul class="search__suggestion-list " role="listbox" aria-label="Suggestions"></ul>
+        </div>
+       </div>
+       <div class="header__cart">
+        <div class="cart">
+         <div class="cart__inner" href="/Panier/">
+          <div class="cart__text">
+           19,00&nbsp;€<!-- --> avant la livraison gratuite
+          </div>
+          <div class="cart__icon">
+           <img src="/img/svg/header/cart.svg" alt="cart" class="desktop-cart"><img src="/img/svg/header/cart-blue.svg" alt="cart" class="mobile-cart">
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="messages-section"></div>
+     </div>
+     <div class="default-page__container ">
+      <div class="search-page">
+       <div class="search-page__top-slider"></div>
+       <div class="search-page__grid">
+        <div class="search-page__desktop-filters">
+         <div class="desktop-filter-tree">
+          <div class="desktop-facet-group">
+           <div class="desktop-facet-group__title">
+            Catégorie
+           </div><a class="desktop-facet-group__reset" href="/produits-C0/">Afficher tout</a>
+           <div class="desktop-facet-group__facets">
+            <div class="desktop-facet">
+             <div class="desktop-facet__title">
+              <a class="desktop-facet__link desktop-facet__link--root" href="/livres-C08/"><label class="clickable ">Livres</label></a>
+             </div>
+             <div class="desktop-facet__children">
+              <div class="desktop-facet">
+               <div class="desktop-facet__title">
+                <a class="desktop-facet__link desktop-facet__link--active" href="/livres-fantastique-et-science-fiction-C056/"><label class="clickable ">Fantastique et science fiction</label></a>
+               </div>
+               <div class="desktop-facet__children"></div>
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+          <div class="desktop-facet-group">
+           <div class="desktop-facet-group__title">
+            de
+           </div>
+           <div class="desktop-facet-group__facets">
+            <div class="desktop-facet">
+             <div class="desktop-facet__title">
+              <a class="desktop-facet__link " href="/livres-fantastique-et-science-fiction-C056/,anne-mccaffrey/"><label class="clickable ">Anne McCaffrey</label></a><span class="desktop-facet__count">(<!-- -->71<!-- -->)</span>
+             </div>
+             <div class="desktop-facet__children"></div>
+            </div>
+            <div class="desktop-facet">
+             <div class="desktop-facet__title">
+              <a class="desktop-facet__link " href="/livres-fantastique-et-science-fiction-C056/,anne-rice/"><label class="clickable ">Anne Rice</label></a><span class="desktop-facet__count">(<!-- -->91<!-- -->)</span>
+             </div>
+             <div class="desktop-facet__children"></div>
+            </div>
+            <div class="desktop-facet">
+             <div class="desktop-facet__title">
+              <a class="desktop-facet__link " href="/livres-fantastique-et-science-fiction-C056/,bradley-marion-zimmer/"><label class="clickable ">Bradley, Marion Zimmer</label></a><span class="desktop-facet__count">(<!-- -->68<!-- -->)</span>
+             </div>
+             <div class="desktop-facet__children"></div>
+            </div>
+            <div class="desktop-facet">
+             <div class="desktop-facet__title">
+              <a class="desktop-facet__link " href="/livres-fantastique-et-science-fiction-C056/,collectif/"><label class="clickable ">Collectif</label></a><span class="desktop-facet__count">(<!-- -->192<!-- -->)</span>
+             </div>
+             <div class="desktop-facet__children"></div>
+            </div>
+            <div class="desktop-facet">
+             <div class="desktop-facet__title">
+              <a class="desktop-facet__link " href="/livres-fantastique-et-science-fiction-C056/,dan-simmons/"><label class="clickable ">Dan Simmons</label></a><span class="desktop-facet__count">(<!-- -->66<!-- -->)</span>
+             </div>
+             <div class="desktop-facet__children"></div>
+            </div>
+            <div class="desktop-facet">
+             <div class="desktop-facet__title">
+              <a class="desktop-facet__link " href="/livres-fantastique-et-science-fiction-C056/,david-eddings/"><label class="clickable ">David Eddings</label></a><span class="desktop-facet__count">(<!-- -->66<!-- -->)</span>
+             </div>
+             <div class="desktop-facet__children"></div>
+            </div>
+            <div class="desktop-facet">
+             <div class="desktop-facet__title">
+              <a class="desktop-facet__link " href="/livres-fantastique-et-science-fiction-C056/,david-gemmell/"><label class="clickable ">David Gemmell</label></a><span class="desktop-facet__count">(<!-- -->75<!-- -->)</span>
+             </div>
+             <div class="desktop-facet__children"></div>
+            </div>
+            <div class="desktop-facet">
+             <div class="desktop-facet__title">
+              <a class="desktop-facet__link " href="/livres-fantastique-et-science-fiction-C056/,dick-k-philip/"><label class="clickable ">Dick, Philip K.</label></a><span class="desktop-facet__count">(<!-- -->67<!-- -->)</span>
+             </div>
+             <div class="desktop-facet__children"></div>
+            </div>
+            <div class="desktop-facet">
+             <div class="desktop-facet__title">
+              <a class="desktop-facet__link " href="/livres-fantastique-et-science-fiction-C056/,frank-herbert/"><label class="clickable ">Frank Herbert</label></a><span class="desktop-facet__count">(<!-- -->83<!-- -->)</span>
+             </div>
+             <div class="desktop-facet__children"></div>
+            </div>
+            <div class="desktop-facet">
+             <div class="desktop-facet__title">
+              <a class="desktop-facet__link " href="/livres-fantastique-et-science-fiction-C056/,asimov-isaac/"><label class="clickable ">Isaac Asimov</label></a><span class="desktop-facet__count">(<!-- -->115<!-- -->)</span>
+             </div>
+             <div class="desktop-facet__children"></div>
+            </div>
+            <div class="desktop-facet">
+             <div class="desktop-facet__title">
+              <a class="desktop-facet__link " href="/livres-fantastique-et-science-fiction-C056/,guieu-jimmy/"><label class="clickable ">Jimmy Guieu</label></a><span class="desktop-facet__count">(<!-- -->85<!-- -->)</span>
+             </div>
+             <div class="desktop-facet__children"></div>
+            </div>
+            <div class="desktop-facet">
+             <div class="desktop-facet__title">
+              <a class="desktop-facet__link " href="/livres-fantastique-et-science-fiction-C056/,jules-verne/"><label class="clickable ">Jules Verne</label></a><span class="desktop-facet__count">(<!-- -->129<!-- -->)</span>
+             </div>
+             <div class="desktop-facet__children"></div>
+            </div>
+            <div class="desktop-facet">
+             <div class="desktop-facet__title">
+              <a class="desktop-facet__link " href="/livres-fantastique-et-science-fiction-C056/,h-k-scheer/"><label class="clickable ">K-H Scheer</label></a><span class="desktop-facet__count">(<!-- -->140<!-- -->)</span>
+             </div>
+             <div class="desktop-facet__children"></div>
+            </div>
+            <div class="desktop-facet">
+             <div class="desktop-facet__title">
+              <a class="desktop-facet__link " href="/livres-fantastique-et-science-fiction-C056/,george-martin-r-r/"><label class="clickable ">Martin, George R. R.</label></a><span class="desktop-facet__count">(<!-- -->94<!-- -->)</span>
+             </div>
+             <div class="desktop-facet__children"></div>
+            </div>
+            <div class="desktop-facet">
+             <div class="desktop-facet__title">
+              <a class="desktop-facet__link " href="/livres-fantastique-et-science-fiction-C056/,bordage-pierre/"><label class="clickable ">Pierre Bordage</label></a><span class="desktop-facet__count">(<!-- -->74<!-- -->)</span>
+             </div>
+             <div class="desktop-facet__children"></div>
+            </div>
+            <div class="desktop-facet">
+             <div class="desktop-facet__title">
+              <a class="desktop-facet__link " href="/livres-fantastique-et-science-fiction-C056/,hobb-robin/"><label class="clickable ">Robin Hobb</label></a><span class="desktop-facet__count">(<!-- -->123<!-- -->)</span>
+             </div>
+             <div class="desktop-facet__children"></div>
+            </div>
+            <div class="desktop-facet">
+             <div class="desktop-facet__title">
+              <a class="desktop-facet__link " href="/livres-fantastique-et-science-fiction-C056/,king-stephen/"><label class="clickable ">Stephen King</label></a><span class="desktop-facet__count">(<!-- -->309<!-- -->)</span>
+             </div>
+             <div class="desktop-facet__children"></div>
+            </div>
+            <div class="desktop-facet">
+             <div class="desktop-facet__title">
+              <a class="desktop-facet__link " href="/livres-fantastique-et-science-fiction-C056/,l-r-stine/"><label class="clickable ">Stine, R. L.</label></a><span class="desktop-facet__count">(<!-- -->160<!-- -->)</span>
+             </div>
+             <div class="desktop-facet__children"></div>
+            </div>
+            <div class="desktop-facet">
+             <div class="desktop-facet__title">
+              <a class="desktop-facet__link " href="/livres-fantastique-et-science-fiction-C056/,j-r-r-tolkien/"><label class="clickable ">Tolkien, J. R. R.</label></a><span class="desktop-facet__count">(<!-- -->73<!-- -->)</span>
+             </div>
+             <div class="desktop-facet__children"></div>
+            </div>
+            <div class="desktop-facet">
+             <div class="desktop-facet__title">
+              <a class="desktop-facet__link " href="/livres-fantastique-et-science-fiction-C056/,x-keine-angabe/"><label class="clickable ">non renseigné</label></a><span class="desktop-facet__count">(<!-- -->2119<!-- -->)</span>
+             </div>
+             <div class="desktop-facet__children"></div>
+            </div>
+           </div>
+          </div>
+          <div class="desktop-facet-group">
+           <div class="desktop-facet-group__title">
+            Prix
+           </div>
+           <div class="desktop-facet-group__facets">
+            <div class="desktop-facet">
+             <div class="desktop-facet__title">
+              <a class="desktop-facet__link " href="/livres-fantastique-et-science-fiction-C056/?fcFatSearchPrice=1+EUR+-+2+EUR"><label class="clickable ">1 € - 2 €</label></a><span class="desktop-facet__count">(<!-- -->140<!-- -->)</span>
+             </div>
+             <div class="desktop-facet__children"></div>
+            </div>
+            <div class="desktop-facet">
+             <div class="desktop-facet__title">
+              <a class="desktop-facet__link " href="/livres-fantastique-et-science-fiction-C056/?fcFatSearchPrice=2+EUR+-+5+EUR"><label class="clickable ">2 € - 5 €</label></a><span class="desktop-facet__count">(<!-- -->9173<!-- -->)</span>
+             </div>
+             <div class="desktop-facet__children"></div>
+            </div>
+            <div class="desktop-facet">
+             <div class="desktop-facet__title">
+              <a class="desktop-facet__link " href="/livres-fantastique-et-science-fiction-C056/?fcFatSearchPrice=5+EUR+-+10+EUR"><label class="clickable ">5 € - 10 €</label></a><span class="desktop-facet__count">(<!-- -->4990<!-- -->)</span>
+             </div>
+             <div class="desktop-facet__children"></div>
+            </div>
+            <div class="desktop-facet">
+             <div class="desktop-facet__title">
+              <a class="desktop-facet__link " href="/livres-fantastique-et-science-fiction-C056/?fcFatSearchPrice=10+EUR+-+20+EUR"><label class="clickable ">10 € - 20 €</label></a><span class="desktop-facet__count">(<!-- -->4929<!-- -->)</span>
+             </div>
+             <div class="desktop-facet__children"></div>
+            </div>
+            <div class="desktop-facet">
+             <div class="desktop-facet__title">
+              <a class="desktop-facet__link " href="/livres-fantastique-et-science-fiction-C056/?fcFatSearchPrice=%C3%BCber+20+EUR"><label class="clickable ">plus de 20 EUR</label></a><span class="desktop-facet__count">(<!-- -->825<!-- -->)</span>
+             </div>
+             <div class="desktop-facet__children"></div>
+            </div>
+           </div>
+          </div>
+          <div class="desktop-facet-group">
+           <div class="desktop-facet-group__title">
+            Format
+           </div>
+           <div class="desktop-facet-group__facets">
+            <div class="desktop-facet">
+             <div class="desktop-facet__title">
+              <a class="desktop-facet__link " href="/livres-fantastique-et-science-fiction-C056/Taschenbuch,/"><label class="clickable ">Poche</label></a><span class="desktop-facet__count">(<!-- -->20717<!-- -->)</span>
+             </div>
+             <div class="desktop-facet__children"></div>
+            </div>
+            <div class="desktop-facet">
+             <div class="desktop-facet__title">
+              <a class="desktop-facet__link " href="/livres-fantastique-et-science-fiction-C056/Gebundene Ausgabe,/"><label class="clickable ">Relié</label></a><span class="desktop-facet__count">(<!-- -->2002<!-- -->)</span>
+             </div>
+             <div class="desktop-facet__children"></div>
+            </div>
+            <div class="desktop-facet">
+             <div class="desktop-facet__title">
+              <a class="desktop-facet__link " href="/livres-fantastique-et-science-fiction-C056/Broschiert,/"><label class="clickable ">Broché</label></a><span class="desktop-facet__count">(<!-- -->425<!-- -->)</span>
+             </div>
+             <div class="desktop-facet__children"></div>
+            </div>
+            <div class="desktop-facet">
+             <div class="desktop-facet__title">
+              <a class="desktop-facet__link " href="/livres-fantastique-et-science-fiction-C056/Audio CD,/"><label class="clickable ">CD Audio</label></a><span class="desktop-facet__count">(<!-- -->184<!-- -->)</span>
+             </div>
+             <div class="desktop-facet__children"></div>
+            </div>
+            <div class="desktop-facet">
+             <div class="desktop-facet__title">
+              <a class="desktop-facet__link " href="/livres-fantastique-et-science-fiction-C056/Sonstige Einbände,/"><label class="clickable ">Reliure spéciale</label></a><span class="desktop-facet__count">(<!-- -->155<!-- -->)</span>
+             </div>
+             <div class="desktop-facet__children"></div>
+            </div>
+            <div class="desktop-facet">
+             <div class="desktop-facet__title">
+              <a class="desktop-facet__link " href="/livres-fantastique-et-science-fiction-C056/CD-ROM,/"><label class="clickable ">CD-ROM</label></a><span class="desktop-facet__count">(<!-- -->18<!-- -->)</span>
+             </div>
+             <div class="desktop-facet__children"></div>
+            </div>
+            <div class="desktop-facet">
+             <div class="desktop-facet__title">
+              <a class="desktop-facet__link " href="/livres-fantastique-et-science-fiction-C056/Hörkassette,/"><label class="clickable ">Cassette audio</label></a><span class="desktop-facet__count">(<!-- -->17<!-- -->)</span>
+             </div>
+             <div class="desktop-facet__children"></div>
+            </div>
+            <div class="desktop-facet">
+             <div class="desktop-facet__title">
+              <a class="desktop-facet__link " href="/livres-fantastique-et-science-fiction-C056/Karten,/"><label class="clickable ">Cartes</label></a><span class="desktop-facet__count">(<!-- -->10<!-- -->)</span>
+             </div>
+             <div class="desktop-facet__children"></div>
+            </div>
+            <div class="desktop-facet">
+             <div class="desktop-facet__title">
+              <a class="desktop-facet__link " href="/livres-fantastique-et-science-fiction-C056/MP3 CD,/"><label class="clickable ">CD MP3</label></a><span class="desktop-facet__count">(<!-- -->6<!-- -->)</span>
+             </div>
+             <div class="desktop-facet__children"></div>
+            </div>
+            <div class="desktop-facet">
+             <div class="desktop-facet__title">
+              <a class="desktop-facet__link " href="/livres-fantastique-et-science-fiction-C056/Sonstiges Zubehör,/"><label class="clickable ">Autres accessoires</label></a><span class="desktop-facet__count">(<!-- -->5<!-- -->)</span>
+             </div>
+             <div class="desktop-facet__children"></div>
+            </div>
+            <div class="desktop-facet">
+             <div class="desktop-facet__title">
+              <a class="desktop-facet__link " href="/livres-fantastique-et-science-fiction-C056/Spielzeug,/"><label class="clickable ">Jouet</label></a><span class="desktop-facet__count">(<!-- -->3<!-- -->)</span>
+             </div>
+             <div class="desktop-facet__children"></div>
+            </div>
+            <div class="desktop-facet">
+             <div class="desktop-facet__title">
+              <a class="desktop-facet__link " href="/livres-fantastique-et-science-fiction-C056/Adressbuch,/"><label class="clickable ">Adressbuch</label></a><span class="desktop-facet__count">(<!-- -->2<!-- -->)</span>
+             </div>
+             <div class="desktop-facet__children"></div>
+            </div>
+            <div class="desktop-facet">
+             <div class="desktop-facet__title">
+              <a class="desktop-facet__link " href="/livres-fantastique-et-science-fiction-C056/Blu-ray,/"><label class="clickable ">Blu-ray</label></a><span class="desktop-facet__count">(<!-- -->2<!-- -->)</span>
+             </div>
+             <div class="desktop-facet__children"></div>
+            </div>
+            <div class="desktop-facet">
+             <div class="desktop-facet__title">
+              <a class="desktop-facet__link " href="/livres-fantastique-et-science-fiction-C056/Musiknoten,/"><label class="clickable ">Partition</label></a><span class="desktop-facet__count">(<!-- -->2<!-- -->)</span>
+             </div>
+             <div class="desktop-facet__children"></div>
+            </div>
+            <div class="desktop-facet">
+             <div class="desktop-facet__title">
+              <a class="desktop-facet__link " href="/livres-fantastique-et-science-fiction-C056/Product Bundle,/"><label class="clickable ">Coffret produits</label></a><span class="desktop-facet__count">(<!-- -->2<!-- -->)</span>
+             </div>
+             <div class="desktop-facet__children"></div>
+            </div>
+            <div class="desktop-facet">
+             <div class="desktop-facet__title">
+              <a class="desktop-facet__link " href="/livres-fantastique-et-science-fiction-C056/Spiel,/"><label class="clickable ">Jeu</label></a><span class="desktop-facet__count">(<!-- -->2<!-- -->)</span>
+             </div>
+             <div class="desktop-facet__children"></div>
+            </div>
+            <div class="desktop-facet">
+             <div class="desktop-facet__title">
+              <a class="desktop-facet__link " href="/livres-fantastique-et-science-fiction-C056/Comic,/"><label class="clickable ">Comic</label></a><span class="desktop-facet__count">(<!-- -->1<!-- -->)</span>
+             </div>
+             <div class="desktop-facet__children"></div>
+            </div>
+            <div class="desktop-facet">
+             <div class="desktop-facet__title">
+              <a class="desktop-facet__link " href="/livres-fantastique-et-science-fiction-C056/Hardcover,/"><label class="clickable ">Hardcover</label></a><span class="desktop-facet__count">(<!-- -->1<!-- -->)</span>
+             </div>
+             <div class="desktop-facet__children"></div>
+            </div>
+            <div class="desktop-facet">
+             <div class="desktop-facet__title">
+              <a class="desktop-facet__link " href="/livres-fantastique-et-science-fiction-C056/Kindle Edition,/"><label class="clickable ">Edition Kindle</label></a><span class="desktop-facet__count">(<!-- -->1<!-- -->)</span>
+             </div>
+             <div class="desktop-facet__children"></div>
+            </div>
+            <div class="desktop-facet">
+             <div class="desktop-facet__title">
+              <a class="desktop-facet__link " href="/livres-fantastique-et-science-fiction-C056/Notebook,/"><label class="clickable ">Notebook</label></a><span class="desktop-facet__count">(<!-- -->1<!-- -->)</span>
+             </div>
+             <div class="desktop-facet__children"></div>
+            </div>
+           </div>
+          </div>
+          <div class="desktop-facet-group">
+           <div class="desktop-facet-group__title">
+            Langue
+           </div>
+           <div class="desktop-facet-group__facets">
+            <div class="desktop-facet">
+             <div class="desktop-facet__title">
+              <a class="desktop-facet__link " href="/livres-fantastique-et-science-fiction-C056/?language=FRA"><label class="clickable ">Français</label></a><span class="desktop-facet__count">(<!-- -->12873<!-- -->)</span>
+             </div>
+             <div class="desktop-facet__children"></div>
+            </div>
+            <div class="desktop-facet">
+             <div class="desktop-facet__title">
+              <a class="desktop-facet__link " href="/livres-fantastique-et-science-fiction-C056/?language=ENG"><label class="clickable ">Anglais</label></a><span class="desktop-facet__count">(<!-- -->4412<!-- -->)</span>
+             </div>
+             <div class="desktop-facet__children"></div>
+            </div>
+            <div class="desktop-facet">
+             <div class="desktop-facet__title">
+              <a class="desktop-facet__link " href="/livres-fantastique-et-science-fiction-C056/?language=DEU"><label class="clickable ">Allemand</label></a><span class="desktop-facet__count">(<!-- -->2522<!-- -->)</span>
+             </div>
+             <div class="desktop-facet__children"></div>
+            </div>
+            <div class="desktop-facet">
+             <div class="desktop-facet__title">
+              <a class="desktop-facet__link " href="/livres-fantastique-et-science-fiction-C056/?language=ITA"><label class="clickable ">Italien</label></a><span class="desktop-facet__count">(<!-- -->1352<!-- -->)</span>
+             </div>
+             <div class="desktop-facet__children"></div>
+            </div>
+            <div class="desktop-facet">
+             <div class="desktop-facet__title">
+              <a class="desktop-facet__link " href="/livres-fantastique-et-science-fiction-C056/?language=SPA"><label class="clickable ">Espagnol</label></a><span class="desktop-facet__count">(<!-- -->1087<!-- -->)</span>
+             </div>
+             <div class="desktop-facet__children"></div>
+            </div>
+            <div class="desktop-facet">
+             <div class="desktop-facet__title">
+              <a class="desktop-facet__link " href="/livres-fantastique-et-science-fiction-C056/?language=NLD"><label class="clickable ">Néerlandais</label></a><span class="desktop-facet__count">(<!-- -->259<!-- -->)</span>
+             </div>
+             <div class="desktop-facet__children"></div>
+            </div>
+            <div class="desktop-facet">
+             <div class="desktop-facet__title">
+              <a class="desktop-facet__link " href="/livres-fantastique-et-science-fiction-C056/?language=DAN"><label class="clickable ">Danois</label></a><span class="desktop-facet__count">(<!-- -->182<!-- -->)</span>
+             </div>
+             <div class="desktop-facet__children"></div>
+            </div>
+            <div class="desktop-facet">
+             <div class="desktop-facet__title">
+              <a class="desktop-facet__link " href="/livres-fantastique-et-science-fiction-C056/?language=POR"><label class="clickable ">Portugais</label></a><span class="desktop-facet__count">(<!-- -->166<!-- -->)</span>
+             </div>
+             <div class="desktop-facet__children"></div>
+            </div>
+            <div class="desktop-facet">
+             <div class="desktop-facet__title">
+              <a class="desktop-facet__link " href="/livres-fantastique-et-science-fiction-C056/?language=SWE"><label class="clickable ">Suédois</label></a><span class="desktop-facet__count">(<!-- -->148<!-- -->)</span>
+             </div>
+             <div class="desktop-facet__children"></div>
+            </div>
+            <div class="desktop-facet">
+             <div class="desktop-facet__title">
+              <a class="desktop-facet__link " href="/livres-fantastique-et-science-fiction-C056/?language=POL"><label class="clickable ">Polonais</label></a><span class="desktop-facet__count">(<!-- -->147<!-- -->)</span>
+             </div>
+             <div class="desktop-facet__children"></div>
+            </div>
+            <div class="desktop-facet">
+             <div class="desktop-facet__title">
+              <a class="desktop-facet__link " href="/livres-fantastique-et-science-fiction-C056/?language=RON"><label class="clickable ">Roumain</label></a><span class="desktop-facet__count">(<!-- -->134<!-- -->)</span>
+             </div>
+             <div class="desktop-facet__children"></div>
+            </div>
+            <div class="desktop-facet">
+             <div class="desktop-facet__title">
+              <a class="desktop-facet__link " href="/livres-fantastique-et-science-fiction-C056/?language=FIN"><label class="clickable ">Finnois</label></a><span class="desktop-facet__count">(<!-- -->86<!-- -->)</span>
+             </div>
+             <div class="desktop-facet__children"></div>
+            </div>
+            <div class="desktop-facet">
+             <div class="desktop-facet__title">
+              <a class="desktop-facet__link " href="/livres-fantastique-et-science-fiction-C056/?language=EST"><label class="clickable ">Estonien</label></a><span class="desktop-facet__count">(<!-- -->62<!-- -->)</span>
+             </div>
+             <div class="desktop-facet__children"></div>
+            </div>
+            <div class="desktop-facet">
+             <div class="desktop-facet__title">
+              <a class="desktop-facet__link " href="/livres-fantastique-et-science-fiction-C056/?language=LIT"><label class="clickable ">Lituanien</label></a><span class="desktop-facet__count">(<!-- -->59<!-- -->)</span>
+             </div>
+             <div class="desktop-facet__children"></div>
+            </div>
+            <div class="desktop-facet">
+             <div class="desktop-facet__title">
+              <a class="desktop-facet__link " href="/livres-fantastique-et-science-fiction-C056/?language=SLK"><label class="clickable ">Slovaque</label></a><span class="desktop-facet__count">(<!-- -->41<!-- -->)</span>
+             </div>
+             <div class="desktop-facet__children"></div>
+            </div>
+            <div class="desktop-facet">
+             <div class="desktop-facet__title">
+              <a class="desktop-facet__link " href="/livres-fantastique-et-science-fiction-C056/?language=TUR"><label class="clickable ">Turc</label></a><span class="desktop-facet__count">(<!-- -->37<!-- -->)</span>
+             </div>
+             <div class="desktop-facet__children"></div>
+            </div>
+            <div class="desktop-facet">
+             <div class="desktop-facet__title">
+              <a class="desktop-facet__link " href="/livres-fantastique-et-science-fiction-C056/?language=HUN"><label class="clickable ">Hongrois</label></a><span class="desktop-facet__count">(<!-- -->33<!-- -->)</span>
+             </div>
+             <div class="desktop-facet__children"></div>
+            </div>
+            <div class="desktop-facet">
+             <div class="desktop-facet__title">
+              <a class="desktop-facet__link " href="/livres-fantastique-et-science-fiction-C056/?language=SLV"><label class="clickable ">Slovène</label></a><span class="desktop-facet__count">(<!-- -->30<!-- -->)</span>
+             </div>
+             <div class="desktop-facet__children"></div>
+            </div>
+            <div class="desktop-facet">
+             <div class="desktop-facet__title">
+              <a class="desktop-facet__link " href="/livres-fantastique-et-science-fiction-C056/?language=HRV"><label class="clickable ">Croate</label></a><span class="desktop-facet__count">(<!-- -->24<!-- -->)</span>
+             </div>
+             <div class="desktop-facet__children"></div>
+            </div>
+            <div class="desktop-facet">
+             <div class="desktop-facet__title">
+              <a class="desktop-facet__link " href="/livres-fantastique-et-science-fiction-C056/?language=CES"><label class="clickable ">Tchèque</label></a><span class="desktop-facet__count">(<!-- -->20<!-- -->)</span>
+             </div>
+             <div class="desktop-facet__children"></div>
+            </div>
+           </div>
+          </div>
+          <div class="desktop-facet-group">
+           <div class="desktop-facet-group__title">
+            État d'article
+           </div>
+           <div class="desktop-facet-group__facets">
+            <div class="desktop-facet">
+             <div class="desktop-facet__title">
+              <a class="desktop-facet__link " href="/livres-fantastique-et-science-fiction-C056/?condition=NewItem"><label class="clickable desktop-facet__checkbox"><input type="checkbox" readonly>Comme neuf</label></a><span class="desktop-facet__count">(<!-- -->2<!-- -->)</span>
+             </div>
+             <div class="desktop-facet__children"></div>
+            </div>
+            <div class="desktop-facet">
+             <div class="desktop-facet__title">
+              <a class="desktop-facet__link " href="/livres-fantastique-et-science-fiction-C056/?condition=UsedVeryGood"><label class="clickable desktop-facet__checkbox"><input type="checkbox" readonly>Très bon état</label></a><span class="desktop-facet__count">(<!-- -->11186<!-- -->)</span>
+             </div>
+             <div class="desktop-facet__children"></div>
+            </div>
+            <div class="desktop-facet">
+             <div class="desktop-facet__title">
+              <a class="desktop-facet__link " href="/livres-fantastique-et-science-fiction-C056/?condition=UsedGood"><label class="clickable desktop-facet__checkbox"><input type="checkbox" readonly>Bon état</label></a><span class="desktop-facet__count">(<!-- -->14234<!-- -->)</span>
+             </div>
+             <div class="desktop-facet__children"></div>
+            </div>
+            <div class="desktop-facet">
+             <div class="desktop-facet__title">
+              <a class="desktop-facet__link " href="/livres-fantastique-et-science-fiction-C056/?condition=UsedAcceptable"><label class="clickable desktop-facet__checkbox"><input type="checkbox" readonly>Acceptable</label></a><span class="desktop-facet__count">(<!-- -->3025<!-- -->)</span>
+             </div>
+             <div class="desktop-facet__children"></div>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+        <div class="search-page__product-list-container">
+         <ul class="breadcrumbs ">
+          <li><a class="breadcrumbs__link" href="/">Accueil</a></li>
+          <li><a class="breadcrumbs__link" href="/livres-C08/">Livres</a></li>
+          <li><a class="breadcrumbs__link" href="/livres-fantastique-et-science-fiction-C056/">Fantastique et science fiction</a></li>
+         </ul>
+         <h1 class="search-page__title">Livres fantastiques et science-fiction d'occasion</h1>
+         <div class="search-filters search-page__filter-tags">
+          <div class="search-filters__active-filters">
+           <a class="filter-tag search-filters__tag " href="#"><span class="filter-tag__title">Fantastique et science fiction</span><span style="display:block;width:6px;min-width:6px;height:6px;min-height:6px"></span></a>
+          </div><label for="show-only-available" class="check-box search-filters__desktop-show-only-available"><input type="checkbox" id="show-only-available" value="1" checked>seulement des articles disponibles</label>
+          <div class="desktop-sort-options search-filters__desktop-sort">
+           <select class="desktop-sort-options__select"><option selected value="/livres-fantastique-et-science-fiction-C056/?pgNr=3">Popularité ▼</option><option value="/livres-fantastique-et-science-fiction-C056/?listorder=asc&amp;listorderby=oxvarminprice&amp;pgNr=3">Prix ▲</option><option value="/livres-fantastique-et-science-fiction-C056/?listorder=desc&amp;listorderby=oxvarminprice&amp;pgNr=3">Prix ▼</option><option value="/livres-fantastique-et-science-fiction-C056/?listorder=desc&amp;listorderby=releasedate&amp;pgNr=3">Les + récents ▼</option><option value="/livres-fantastique-et-science-fiction-C056/?listorder=asc&amp;listorderby=releasedate&amp;pgNr=3">Les + anciens ▲</option></select>
+           <div class="desktop-sort-options__label">
+            Popularité ▼
+           </div>
+          </div><a class="mobile-filter" role="button" tabindex="0"><span class="mobile-filter__text">Filtrer</span><span class="mobile-filter__count">(1)</span><span style="display:block;width:10px;min-width:10px;height:10px;min-height:10px"></span></a>
+         </div>
+         <div class="product-list search-page__product-list">
+          <span style="display:block;width:14px;min-width:14px;height:14px;min-height:14px" class="product-list__spacer"></span>
+          <div class="product__grid">
+           <div class="product__image">
+            <a role="button" tabindex="0" href="/collectif-star-wars-hidden-empire-t02-edition-collector-compte-ferme-taschenbuch-M0B0BXNQ2H88.html"><img src="https://images2.medimops.eu/product/f575ab/M0B0BXNQ2H88-small.jpg" alt="Star Wars Hidden Empire T02 (Edition collector) - COMPTE FERME"></a>
+           </div>
+           <div class="product__description">
+            <a role="button" tabindex="0" href="/collectif-star-wars-hidden-empire-t02-edition-collector-compte-ferme-taschenbuch-M0B0BXNQ2H88.html">
+             <div class="product__title">
+              Star Wars Hidden Empire T02 (Edition collector) - COMPTE FERME
+             </div></a><span style="display:block;width:0.2em;min-width:0.2em;height:0.2em;min-height:0.2em"></span>
+            <div class="product__manufacturer">
+             de <a role="button" tabindex="0" href="/,collectif/">Collectif</a>
+            </div><span style="display:block;width:0.2em;min-width:0.2em;height:0.2em;min-height:0.2em"></span>
+            <div class="product__condition">
+             Très bon état - À offrir
+            </div><span style="display:block;width:0.2em;min-width:0.2em;height:0.2em;min-height:0.2em"></span>
+           </div>
+           <div class="product__pricing">
+            <div>
+             <span class="product__type">Livre</span><span style="display:inline-block;width:4px;min-width:4px;height:4px;min-height:4px"></span><span class="product__price">19,80&nbsp;€</span>
+            </div>
+           </div>
+           <div class="product__footer">
+            <a role="button" tabindex="0" class="btn btn--secondary flex-fixed"><i class="i i-heart i-dark"></i><span class="display-only--lg">Ajouter à la liste des favoris</span></a><a class="add-to-cart add-to-cart__main btn btn--primary " role="button" tabindex="0">Ajouter au panier</a>
+           </div>
+          </div>
+          <hr class="divider">
+          <div class="product__grid">
+           <div class="product__image">
+            <a role="button" tabindex="0" href="/laurence-chevallier-native-le-couronnement-de-la-reine-tome-2-taschenbuch-M01503163334.html"><img src="https://images2.medimops.eu/product/b3f556/M01503163334-small.jpg" alt="Native - Le couronnement de la reine, Tome 2"></a>
+           </div>
+           <div class="product__description">
+            <a role="button" tabindex="0" href="/laurence-chevallier-native-le-couronnement-de-la-reine-tome-2-taschenbuch-M01503163334.html">
+             <div class="product__title">
+              Native - Le couronnement de la reine, Tome 2
+             </div></a><span style="display:block;width:0.2em;min-width:0.2em;height:0.2em;min-height:0.2em"></span>
+            <div class="product__manufacturer">
+             de <a role="button" tabindex="0" href="/,chevallier-laurence/">Laurence Chevallier</a>
+            </div><span style="display:block;width:0.2em;min-width:0.2em;height:0.2em;min-height:0.2em"></span>
+            <div class="product__condition">
+             D'occasion - acceptable
+            </div><span style="display:block;width:0.2em;min-width:0.2em;height:0.2em;min-height:0.2em"></span>
+           </div>
+           <div class="product__pricing">
+            <div>
+             <span class="product__type">Livre</span><span style="display:inline-block;width:4px;min-width:4px;height:4px;min-height:4px"></span><span class="product__price">15,21&nbsp;€</span>
+            </div>
+           </div>
+           <div class="product__footer">
+            <a role="button" tabindex="0" class="btn btn--secondary flex-fixed"><i class="i i-heart i-dark"></i><span class="display-only--lg">Ajouter à la liste des favoris</span></a><a class="add-to-cart add-to-cart__main btn btn--primary " role="button" tabindex="0">Ajouter au panier</a>
+           </div>
+          </div>
+          <hr class="divider">
+          <div class="product__grid">
+           <div class="product__image">
+            <a role="button" tabindex="0" href="/collectif-les-archives-de-roshar-tome-1-le-livre-des-radieux-taschenbuch-M02253820180.html"><img src="https://images2.medimops.eu/product/3cc4fc/M02253820180-small.jpg" alt="Les archives de Roshar, Tome 1 : Le Livre des Radieux"></a>
+           </div>
+           <div class="product__description">
+            <a role="button" tabindex="0" href="/collectif-les-archives-de-roshar-tome-1-le-livre-des-radieux-taschenbuch-M02253820180.html">
+             <div class="product__title">
+              Les archives de Roshar, Tome 1 : Le Livre des Radieux
+             </div></a><span style="display:block;width:0.2em;min-width:0.2em;height:0.2em;min-height:0.2em"></span>
+            <div class="product__manufacturer">
+             de <a role="button" tabindex="0" href="/,collectif/">Collectif</a>
+            </div><span style="display:block;width:0.2em;min-width:0.2em;height:0.2em;min-height:0.2em"></span>
+            <div class="product__condition">
+             Très bon état - À offrir
+            </div><span style="display:block;width:0.2em;min-width:0.2em;height:0.2em;min-height:0.2em"></span>
+           </div>
+           <div class="product__pricing">
+            <div class="responsive-text--12px-16px">
+             Nouveau <span class="text-stroke">10,90&nbsp;€</span>
+            </div>
+            <div class="responsive-text--12px-16px">
+             Vous économisez <!-- -->3,91&nbsp;€<!-- --> (<!-- -->36<!-- -->%)
+            </div>
+            <div>
+             <span class="product__type">Livre</span><span style="display:inline-block;width:4px;min-width:4px;height:4px;min-height:4px"></span><span class="product__price">6,99&nbsp;€</span>
+            </div>
+           </div>
+           <div class="product__footer">
+            <a role="button" tabindex="0" class="btn btn--secondary flex-fixed"><i class="i i-heart i-dark"></i><span class="display-only--lg">Ajouter à la liste des favoris</span></a><a class="add-to-cart add-to-cart__main btn btn--primary " role="button" tabindex="0">Ajouter au panier</a>
+           </div>
+          </div>
+          <hr class="divider">
+          <div class="product__grid">
+           <div class="product__image">
+            <a role="button" tabindex="0" href="/patrick-rothfuss-chronique-du-tueur-de-roi-tome-1-le-nom-du-vent-taschenbuch-M02352943558.html"><img src="https://images2.medimops.eu/product/586a85/M02352943558-small.jpg" alt="Chronique du tueur de roi, tome 1 : Le Nom du vent"></a>
+           </div>
+           <div class="product__description">
+            <a role="button" tabindex="0" href="/patrick-rothfuss-chronique-du-tueur-de-roi-tome-1-le-nom-du-vent-taschenbuch-M02352943558.html">
+             <div class="product__title">
+              Chronique du tueur de roi, tome 1 : Le Nom du vent
+             </div></a><span style="display:block;width:0.2em;min-width:0.2em;height:0.2em;min-height:0.2em"></span>
+            <div class="product__manufacturer">
+             de <a role="button" tabindex="0" href="/,patrick-rothfuss/">Patrick Rothfuss</a>
+            </div><span style="display:block;width:0.2em;min-width:0.2em;height:0.2em;min-height:0.2em"></span>
+            <div class="product__condition">
+             D'occasion - acceptable
+            </div><span style="display:block;width:0.2em;min-width:0.2em;height:0.2em;min-height:0.2em"></span>
+           </div>
+           <div class="product__pricing">
+            <div class="responsive-text--12px-16px">
+             Nouveau <span class="text-stroke">25,00&nbsp;€</span>
+            </div>
+            <div class="responsive-text--12px-16px">
+             Vous économisez <!-- -->4,51&nbsp;€<!-- --> (<!-- -->18<!-- -->%)
+            </div>
+            <div>
+             <span class="product__type">Livre</span><span style="display:inline-block;width:4px;min-width:4px;height:4px;min-height:4px"></span><span class="product__price">20,49&nbsp;€</span>
+            </div>
+           </div>
+           <div class="product__footer">
+            <a role="button" tabindex="0" class="btn btn--secondary flex-fixed"><i class="i i-heart i-dark"></i><span class="display-only--lg">Ajouter à la liste des favoris</span></a><a class="add-to-cart add-to-cart__main btn btn--primary " role="button" tabindex="0">Ajouter au panier</a>
+           </div>
+          </div>
+          <hr class="divider">
+          <div class="product__grid">
+           <div class="product__image">
+            <a role="button" tabindex="0" href="/la-roue-du-temps-t5-1-les-feux-du-ciel-premiere-partie-la-roue-du-temps-5-taschenbuch-M0B07YTDY8XM.html"><img src="https://images2.medimops.eu/product/1276ea/M0B07YTDY8XM-small.jpg" alt="La Roue du Temps, T5.1 : Les Feux du ciel - première partie (La Roue du Temps (5))"></a>
+           </div>
+           <div class="product__description">
+            <a role="button" tabindex="0" href="/la-roue-du-temps-t5-1-les-feux-du-ciel-premiere-partie-la-roue-du-temps-5-taschenbuch-M0B07YTDY8XM.html">
+             <div class="product__title">
+              La Roue du Temps, T5.1 : Les Feux du ciel - première partie (La Roue du Temps (5))
+             </div></a><span style="display:block;width:0.2em;min-width:0.2em;height:0.2em;min-height:0.2em"></span>
+            <div class="product__manufacturer">
+             de <a role="button" tabindex="0" href="/,x-keine-angabe/">non renseigné</a>
+            </div><span style="display:block;width:0.2em;min-width:0.2em;height:0.2em;min-height:0.2em"></span>
+            <div class="product__condition">
+             Très bon état - À offrir
+            </div><span style="display:block;width:0.2em;min-width:0.2em;height:0.2em;min-height:0.2em"></span>
+           </div>
+           <div class="product__pricing">
+            <div>
+             <span class="product__type">Livre</span><span style="display:inline-block;width:4px;min-width:4px;height:4px;min-height:4px"></span><span class="product__price">7,90&nbsp;€</span>
+            </div>
+           </div>
+           <div class="product__footer">
+            <a role="button" tabindex="0" class="btn btn--secondary flex-fixed"><i class="i i-heart i-dark"></i><span class="display-only--lg">Ajouter à la liste des favoris</span></a><a class="add-to-cart add-to-cart__main btn btn--primary " role="button" tabindex="0">Ajouter au panier</a>
+           </div>
+          </div>
+          <hr class="divider">
+          <div class="product__grid">
+           <div class="product__image">
+            <a role="button" tabindex="0" href="/arthur-machen-le-grand-dieu-pan-gebundene-ausgabe-M02901207235.html"><img src="https://images2.medimops.eu/product/9dbea9/M02901207235-small.jpg" alt="Le Grand Dieu Pan"></a>
+           </div>
+           <div class="product__description">
+            <a role="button" tabindex="0" href="/arthur-machen-le-grand-dieu-pan-gebundene-ausgabe-M02901207235.html">
+             <div class="product__title">
+              Le Grand Dieu Pan
+             </div></a><span style="display:block;width:0.2em;min-width:0.2em;height:0.2em;min-height:0.2em"></span>
+            <div class="product__manufacturer">
+             de <a role="button" tabindex="0" href="/,arthur-machen/">Arthur Machen</a>
+            </div><span style="display:block;width:0.2em;min-width:0.2em;height:0.2em;min-height:0.2em"></span>
+            <div class="product__condition">
+             Très bon état - À offrir
+            </div><span style="display:block;width:0.2em;min-width:0.2em;height:0.2em;min-height:0.2em"></span>
+           </div>
+           <div class="product__pricing">
+            <div>
+             <span class="product__type">Livre</span><span style="display:inline-block;width:4px;min-width:4px;height:4px;min-height:4px"></span><span class="product__price">31,50&nbsp;€</span>
+            </div>
+           </div>
+           <div class="product__footer">
+            <a role="button" tabindex="0" class="btn btn--secondary flex-fixed"><i class="i i-heart i-dark"></i><span class="display-only--lg">Ajouter à la liste des favoris</span></a><a class="add-to-cart add-to-cart__main btn btn--primary " role="button" tabindex="0">Ajouter au panier</a>
+           </div>
+          </div>
+          <hr class="divider">
+          <div class="product__grid">
+           <div class="product__image">
+            <a role="button" tabindex="0" href="/guy-roger-duvert-outsphere-taschenbuch-M01794329897.html"><img src="https://images2.medimops.eu/product/42adee/M01794329897-small.jpg" alt="Outsphere"></a>
+           </div>
+           <div class="product__description">
+            <a role="button" tabindex="0" href="/guy-roger-duvert-outsphere-taschenbuch-M01794329897.html">
+             <div class="product__title">
+              Outsphere
+             </div></a><span style="display:block;width:0.2em;min-width:0.2em;height:0.2em;min-height:0.2em"></span>
+            <div class="product__manufacturer">
+             de <a role="button" tabindex="0" href="/,duvert-guy-roger/">Guy-Roger Duvert</a>
+            </div><span style="display:block;width:0.2em;min-width:0.2em;height:0.2em;min-height:0.2em"></span>
+            <div class="product__condition">
+             Très bon état - À offrir
+            </div><span style="display:block;width:0.2em;min-width:0.2em;height:0.2em;min-height:0.2em"></span>
+           </div>
+           <div class="product__pricing">
+            <div>
+             <span class="product__type">Livre</span><span style="display:inline-block;width:4px;min-width:4px;height:4px;min-height:4px"></span><span class="product__price">17,99&nbsp;€</span>
+            </div>
+           </div>
+           <div class="product__footer">
+            <a role="button" tabindex="0" class="btn btn--secondary flex-fixed"><i class="i i-heart i-dark"></i><span class="display-only--lg">Ajouter à la liste des favoris</span></a><a class="add-to-cart add-to-cart__main btn btn--primary " role="button" tabindex="0">Ajouter au panier</a>
+           </div>
+          </div>
+          <hr class="divider">
+          <div class="product__grid">
+           <div class="product__image">
+            <a role="button" tabindex="0" href="/suzanne-collins-hunger-games-3-la-revolte-taschenbuch-M02266182714.html"><img src="https://images2.medimops.eu/product/cc16db/M02266182714-small.jpg" alt="Hunger Games 3. La Revolte"></a>
+           </div>
+           <div class="product__description">
+            <a role="button" tabindex="0" href="/suzanne-collins-hunger-games-3-la-revolte-taschenbuch-M02266182714.html">
+             <div class="product__title">
+              Hunger Games 3. La Revolte
+             </div></a><span style="display:block;width:0.2em;min-width:0.2em;height:0.2em;min-height:0.2em"></span>
+            <div class="product__manufacturer">
+             de <a role="button" tabindex="0" href="/,collins-suzanne/">Suzanne Collins</a>
+            </div><span style="display:block;width:0.2em;min-width:0.2em;height:0.2em;min-height:0.2em"></span>
+            <div class="product__condition">
+             D'occasion - bon état
+            </div><span style="display:block;width:0.2em;min-width:0.2em;height:0.2em;min-height:0.2em"></span>
+           </div>
+           <div class="product__sale">
+            <div role="status" class="label-sale label-sale ">
+             % BONS PLANS
+            </div>
+           </div>
+           <div class="product__pricing">
+            <div>
+             <span class="product__type">Livre</span><span style="display:inline-block;width:4px;min-width:4px;height:4px;min-height:4px"></span><span class="product__price product__price--sale">3,99&nbsp;€</span>
+            </div>
+           </div>
+           <div class="product__footer">
+            <a role="button" tabindex="0" class="btn btn--secondary flex-fixed"><i class="i i-heart i-dark"></i><span class="display-only--lg">Ajouter à la liste des favoris</span></a><a class="add-to-cart add-to-cart__main btn btn--primary " role="button" tabindex="0">Ajouter au panier</a>
+           </div>
+          </div>
+          <hr class="divider">
+          <div class="product__grid">
+           <div class="product__image">
+            <a role="button" tabindex="0" href="/bernard-werber-le-jour-des-fourmis-le-livre-de-poche-taschenbuch-M02253137243.html"><img src="https://images2.medimops.eu/product/294dd9/M02253137243-small.jpg" alt="Le Jour des fourmis (Le Livre de Poche)"></a>
+           </div>
+           <div class="product__description">
+            <a role="button" tabindex="0" href="/bernard-werber-le-jour-des-fourmis-le-livre-de-poche-taschenbuch-M02253137243.html">
+             <div class="product__title">
+              Le Jour des fourmis (Le Livre de Poche)
+             </div></a><span style="display:block;width:0.2em;min-width:0.2em;height:0.2em;min-height:0.2em"></span>
+            <div class="product__manufacturer">
+             de <a role="button" tabindex="0" href="/,bernard-werber/">Bernard Werber</a>
+            </div><span style="display:block;width:0.2em;min-width:0.2em;height:0.2em;min-height:0.2em"></span>
+            <div class="product__condition">
+             D'occasion - bon état
+            </div><span style="display:block;width:0.2em;min-width:0.2em;height:0.2em;min-height:0.2em"></span>
+           </div>
+           <div class="product__sale">
+            <div role="status" class="label-sale label-sale ">
+             % BONS PLANS
+            </div>
+           </div>
+           <div class="product__pricing">
+            <div>
+             <span class="product__type">Livre</span><span style="display:inline-block;width:4px;min-width:4px;height:4px;min-height:4px"></span><span class="product__price product__price--sale">4,99&nbsp;€</span>
+            </div>
+           </div>
+           <div class="product__footer">
+            <a role="button" tabindex="0" class="btn btn--secondary flex-fixed"><i class="i i-heart i-dark"></i><span class="display-only--lg">Ajouter à la liste des favoris</span></a><a class="add-to-cart add-to-cart__main btn btn--primary " role="button" tabindex="0">Ajouter au panier</a>
+           </div>
+          </div>
+          <hr class="divider">
+          <div class="product__grid">
+           <div class="product__image">
+            <a role="button" tabindex="0" href="/la-faucheuse-tome-1-1-taschenbuch-M02266314327.html"><img src="https://images2.medimops.eu/product/ddfea3/M02266314327-small.jpg" alt="La Faucheuse - tome 1 (1)"></a>
+           </div>
+           <div class="product__description">
+            <a role="button" tabindex="0" href="/la-faucheuse-tome-1-1-taschenbuch-M02266314327.html">
+             <div class="product__title">
+              La Faucheuse - tome 1 (1)
+             </div></a><span style="display:block;width:0.2em;min-width:0.2em;height:0.2em;min-height:0.2em"></span>
+            <div class="product__manufacturer">
+             de <a role="button" tabindex="0" href="/,x-keine-angabe/">non renseigné</a>
+            </div><span style="display:block;width:0.2em;min-width:0.2em;height:0.2em;min-height:0.2em"></span>
+            <div class="product__condition">
+             Très bon état - À offrir
+            </div><span style="display:block;width:0.2em;min-width:0.2em;height:0.2em;min-height:0.2em"></span>
+           </div>
+           <div class="product__pricing">
+            <div>
+             <span class="product__type">Livre</span><span style="display:inline-block;width:4px;min-width:4px;height:4px;min-height:4px"></span><span class="product__price">7,90&nbsp;€</span>
+            </div>
+           </div>
+           <div class="product__footer">
+            <a role="button" tabindex="0" class="btn btn--secondary flex-fixed"><i class="i i-heart i-dark"></i><span class="display-only--lg">Ajouter à la liste des favoris</span></a><a class="add-to-cart add-to-cart__main btn btn--primary " role="button" tabindex="0">Ajouter au panier</a>
+           </div>
+          </div>
+          <hr class="divider">
+          <div class="product__grid">
+           <div class="product__image">
+            <a role="button" tabindex="0" href="/terry-pratchett-de-bons-presages-taschenbuch-M02290088404.html"><img src="https://images2.medimops.eu/product/48e6cc/M02290088404-small.jpg" alt="De bons présages"></a>
+           </div>
+           <div class="product__description">
+            <a role="button" tabindex="0" href="/terry-pratchett-de-bons-presages-taschenbuch-M02290088404.html">
+             <div class="product__title">
+              De bons présages
+             </div></a><span style="display:block;width:0.2em;min-width:0.2em;height:0.2em;min-height:0.2em"></span>
+            <div class="product__manufacturer">
+             de <a role="button" tabindex="0" href="/,pratchett-terry/">Terry Pratchett</a>
+            </div><span style="display:block;width:0.2em;min-width:0.2em;height:0.2em;min-height:0.2em"></span>
+            <div class="product__condition">
+             D'occasion - bon état
+            </div><span style="display:block;width:0.2em;min-width:0.2em;height:0.2em;min-height:0.2em"></span>
+           </div>
+           <div class="product__pricing">
+            <div>
+             <span class="product__type">Livre</span><span style="display:inline-block;width:4px;min-width:4px;height:4px;min-height:4px"></span><span class="product__price">7,80&nbsp;€</span>
+            </div>
+           </div>
+           <div class="product__footer">
+            <a role="button" tabindex="0" class="btn btn--secondary flex-fixed"><i class="i i-heart i-dark"></i><span class="display-only--lg">Ajouter à la liste des favoris</span></a><a class="add-to-cart add-to-cart__main btn btn--primary " role="button" tabindex="0">Ajouter au panier</a>
+           </div>
+          </div>
+          <hr class="divider">
+          <div class="product__grid">
+           <div class="product__image">
+            <a role="button" tabindex="0" href="/maude-royer-pinocchio-taschenbuch-M02849336416.html"><img src="https://images2.medimops.eu/product/f42d9f/M02849336416-small.jpg" alt="Pinocchio"></a>
+           </div>
+           <div class="product__description">
+            <a role="button" tabindex="0" href="/maude-royer-pinocchio-taschenbuch-M02849336416.html">
+             <div class="product__title">
+              Pinocchio
+             </div></a><span style="display:block;width:0.2em;min-width:0.2em;height:0.2em;min-height:0.2em"></span>
+            <div class="product__manufacturer">
+             de <a role="button" tabindex="0" href="/,maude-royer/">Maude Royer</a>
+            </div><span style="display:block;width:0.2em;min-width:0.2em;height:0.2em;min-height:0.2em"></span>
+            <div class="product__condition">
+             Très bon état - À offrir
+            </div><span style="display:block;width:0.2em;min-width:0.2em;height:0.2em;min-height:0.2em"></span>
+           </div>
+           <div class="product__pricing">
+            <div>
+             <span class="product__type">Livre</span><span style="display:inline-block;width:4px;min-width:4px;height:4px;min-height:4px"></span><span class="product__price">13,41&nbsp;€</span>
+            </div>
+           </div>
+           <div class="product__footer">
+            <a role="button" tabindex="0" class="btn btn--secondary flex-fixed"><i class="i i-heart i-dark"></i><span class="display-only--lg">Ajouter à la liste des favoris</span></a><a class="add-to-cart add-to-cart__main btn btn--primary " role="button" tabindex="0">Ajouter au panier</a>
+           </div>
+          </div>
+          <hr class="divider">
+          <div class="product__grid">
+           <div class="product__image">
+            <a role="button" tabindex="0" href="/stephen-king-simetierre-ldp-litt-fantas-taschenbuch-M02253151432.html"><img src="https://images2.medimops.eu/product/b35d04/M02253151432-small.jpg" alt="Simetierre (Ldp Litt.Fantas)"></a>
+           </div>
+           <div class="product__description">
+            <a role="button" tabindex="0" href="/stephen-king-simetierre-ldp-litt-fantas-taschenbuch-M02253151432.html">
+             <div class="product__title">
+              Simetierre (Ldp Litt.Fantas)
+             </div></a><span style="display:block;width:0.2em;min-width:0.2em;height:0.2em;min-height:0.2em"></span>
+            <div class="product__manufacturer">
+             de <a role="button" tabindex="0" href="/,king-stephen/">Stephen King</a>
+            </div><span style="display:block;width:0.2em;min-width:0.2em;height:0.2em;min-height:0.2em"></span>
+            <div class="product__condition">
+             D'occasion - bon état
+            </div><span style="display:block;width:0.2em;min-width:0.2em;height:0.2em;min-height:0.2em"></span>
+           </div>
+           <div class="product__sale">
+            <div role="status" class="label-sale label-sale ">
+             % BONS PLANS
+            </div>
+           </div>
+           <div class="product__pricing">
+            <div class="responsive-text--12px-16px">
+             Nouveau <span class="text-stroke">8,90&nbsp;€</span>
+            </div>
+            <div class="responsive-text--12px-16px">
+             Vous économisez <!-- -->3,41&nbsp;€<!-- --> (<!-- -->38<!-- -->%)
+            </div>
+            <div>
+             <span class="product__type">Livre</span><span style="display:inline-block;width:4px;min-width:4px;height:4px;min-height:4px"></span><span class="product__price product__price--sale">5,49&nbsp;€</span>
+            </div>
+           </div>
+           <div class="product__footer">
+            <a role="button" tabindex="0" class="btn btn--secondary flex-fixed"><i class="i i-heart i-dark"></i><span class="display-only--lg">Ajouter à la liste des favoris</span></a><a class="add-to-cart add-to-cart__main btn btn--primary " role="button" tabindex="0">Ajouter au panier</a>
+           </div>
+          </div>
+          <hr class="divider">
+          <div class="product__grid">
+           <div class="product__image">
+            <a role="button" tabindex="0" href="/stevenson-r-l-l-etrange-cas-du-dr-jekyll-et-de-mr-hyde-ldp-classiques-taschenbuch-M02253160679.html"><img src="https://images2.medimops.eu/product/77081e/M02253160679-small.jpg" alt="L Etrange Cas Du Dr Jekyll Et de MR Hyde (Ldp Classiques)"></a>
+           </div>
+           <div class="product__description">
+            <a role="button" tabindex="0" href="/stevenson-r-l-l-etrange-cas-du-dr-jekyll-et-de-mr-hyde-ldp-classiques-taschenbuch-M02253160679.html">
+             <div class="product__title">
+              L Etrange Cas Du Dr Jekyll Et de MR Hyde (Ldp Classiques)
+             </div></a><span style="display:block;width:0.2em;min-width:0.2em;height:0.2em;min-height:0.2em"></span>
+            <div class="product__manufacturer">
+             de <a role="button" tabindex="0" href="/,l-r-stevenson/">Stevenson, R. L.</a>
+            </div><span style="display:block;width:0.2em;min-width:0.2em;height:0.2em;min-height:0.2em"></span>
+            <div class="product__condition">
+             D'occasion - bon état
+            </div><span style="display:block;width:0.2em;min-width:0.2em;height:0.2em;min-height:0.2em"></span>
+           </div>
+           <div class="product__sale">
+            <div role="status" class="label-sale label-sale ">
+             % BONS PLANS
+            </div>
+           </div>
+           <div class="product__pricing">
+            <div class="responsive-text--12px-16px">
+             Nouveau <span class="text-stroke">4,10&nbsp;€</span>
+            </div>
+            <div class="responsive-text--12px-16px">
+             Vous économisez <!-- -->1,11&nbsp;€<!-- --> (<!-- -->27<!-- -->%)
+            </div>
+            <div>
+             <span class="product__type">Livre</span><span style="display:inline-block;width:4px;min-width:4px;height:4px;min-height:4px"></span><span class="product__price product__price--sale">2,99&nbsp;€</span>
+            </div>
+           </div>
+           <div class="product__footer">
+            <a role="button" tabindex="0" class="btn btn--secondary flex-fixed"><i class="i i-heart i-dark"></i><span class="display-only--lg">Ajouter à la liste des favoris</span></a><a class="add-to-cart add-to-cart__main btn btn--primary " role="button" tabindex="0">Ajouter au panier</a>
+           </div>
+          </div>
+          <hr class="divider">
+          <div class="product__grid">
+           <div class="product__image">
+            <a role="button" tabindex="0" href="/les-livres-de-la-terre-fracturee-tome-2-la-porte-de-cristal-taschenbuch-M02290172855.html"><img src="https://images2.medimops.eu/product/cf0991/M02290172855-small.jpg" alt="Les livres de la terre fracturée, Tome 2 : La porte de cristal"></a>
+           </div>
+           <div class="product__description">
+            <a role="button" tabindex="0" href="/les-livres-de-la-terre-fracturee-tome-2-la-porte-de-cristal-taschenbuch-M02290172855.html">
+             <div class="product__title">
+              Les livres de la terre fracturée, Tome 2 : La porte de cristal
+             </div></a><span style="display:block;width:0.2em;min-width:0.2em;height:0.2em;min-height:0.2em"></span>
+            <div class="product__manufacturer">
+             de <a role="button" tabindex="0" href="/,x-keine-angabe/">non renseigné</a>
+            </div><span style="display:block;width:0.2em;min-width:0.2em;height:0.2em;min-height:0.2em"></span>
+            <div class="product__condition">
+             D'occasion - bon état
+            </div><span style="display:block;width:0.2em;min-width:0.2em;height:0.2em;min-height:0.2em"></span>
+           </div>
+           <div class="product__pricing">
+            <div>
+             <span class="product__type">Livre</span><span style="display:inline-block;width:4px;min-width:4px;height:4px;min-height:4px"></span><span class="product__price">7,80&nbsp;€</span>
+            </div>
+           </div>
+           <div class="product__footer">
+            <a role="button" tabindex="0" class="btn btn--secondary flex-fixed"><i class="i i-heart i-dark"></i><span class="display-only--lg">Ajouter à la liste des favoris</span></a><a class="add-to-cart add-to-cart__main btn btn--primary " role="button" tabindex="0">Ajouter au panier</a>
+           </div>
+          </div>
+          <hr class="divider">
+          <div class="product__grid">
+           <div class="product__image">
+            <a role="button" tabindex="0" href="/bernard-werber-la-revolution-des-fourmis-le-livre-de-poche-taschenbuch-M02253144452.html"><img src="https://images2.medimops.eu/product/d102e7/M02253144452-small.jpg" alt="La Révolution des fourmis (Le Livre de Poche)"></a>
+           </div>
+           <div class="product__description">
+            <a role="button" tabindex="0" href="/bernard-werber-la-revolution-des-fourmis-le-livre-de-poche-taschenbuch-M02253144452.html">
+             <div class="product__title">
+              La Révolution des fourmis (Le Livre de Poche)
+             </div></a><span style="display:block;width:0.2em;min-width:0.2em;height:0.2em;min-height:0.2em"></span>
+            <div class="product__manufacturer">
+             de <a role="button" tabindex="0" href="/,bernard-werber/">Bernard Werber</a>
+            </div><span style="display:block;width:0.2em;min-width:0.2em;height:0.2em;min-height:0.2em"></span>
+            <div class="product__condition">
+             D'occasion - bon état
+            </div><span style="display:block;width:0.2em;min-width:0.2em;height:0.2em;min-height:0.2em"></span>
+           </div>
+           <div class="product__sale">
+            <div role="status" class="label-sale label-sale ">
+             % BONS PLANS
+            </div>
+           </div>
+           <div class="product__pricing">
+            <div>
+             <span class="product__type">Livre</span><span style="display:inline-block;width:4px;min-width:4px;height:4px;min-height:4px"></span><span class="product__price product__price--sale">3,49&nbsp;€</span>
+            </div>
+           </div>
+           <div class="product__footer">
+            <a role="button" tabindex="0" class="btn btn--secondary flex-fixed"><i class="i i-heart i-dark"></i><span class="display-only--lg">Ajouter à la liste des favoris</span></a><a class="add-to-cart add-to-cart__main btn btn--primary " role="button" tabindex="0">Ajouter au panier</a>
+           </div>
+          </div>
+          <hr class="divider">
+          <div class="product__grid">
+           <div class="product__image">
+            <a role="button" tabindex="0" href="/erin-hunter-la-guerre-des-clans-hs-tome-10-l-ombre-de-coeur-de-tigre-taschenbuch-M02266331663.html"><img src="https://images2.medimops.eu/product/04e419/M02266331663-small.jpg" alt="La Guerre des clans HS - Tome 10 L'Ombre de Coeur de Tigre"></a>
+           </div>
+           <div class="product__description">
+            <a role="button" tabindex="0" href="/erin-hunter-la-guerre-des-clans-hs-tome-10-l-ombre-de-coeur-de-tigre-taschenbuch-M02266331663.html">
+             <div class="product__title">
+              La Guerre des clans HS - Tome 10 L'Ombre de Coeur de Tigre
+             </div></a><span style="display:block;width:0.2em;min-width:0.2em;height:0.2em;min-height:0.2em"></span>
+            <div class="product__manufacturer">
+             de <a role="button" tabindex="0" href="/,erin-hunter/">Erin Hunter</a>
+            </div><span style="display:block;width:0.2em;min-width:0.2em;height:0.2em;min-height:0.2em"></span>
+            <div class="product__condition">
+             D'occasion - bon état
+            </div><span style="display:block;width:0.2em;min-width:0.2em;height:0.2em;min-height:0.2em"></span>
+           </div>
+           <div class="product__pricing">
+            <div>
+             <span class="product__type">Livre</span><span style="display:inline-block;width:4px;min-width:4px;height:4px;min-height:4px"></span><span class="product__price">16,65&nbsp;€</span>
+            </div>
+           </div>
+           <div class="product__footer">
+            <a role="button" tabindex="0" class="btn btn--secondary flex-fixed"><i class="i i-heart i-dark"></i><span class="display-only--lg">Ajouter à la liste des favoris</span></a><a class="add-to-cart add-to-cart__main btn btn--primary " role="button" tabindex="0">Ajouter au panier</a>
+           </div>
+          </div>
+          <hr class="divider">
+          <div class="product__grid">
+           <div class="product__image">
+            <a role="button" tabindex="0" href="/dan-simmons-les-cantos-d-hyperion-tome-1-hyperion-taschenbuch-M02266252585.html"><img src="https://images2.medimops.eu/product/ce5587/M02266252585-small.jpg" alt="Les Cantos d'Hypérion, Tome 1 : Hypérion"></a>
+           </div>
+           <div class="product__description">
+            <a role="button" tabindex="0" href="/dan-simmons-les-cantos-d-hyperion-tome-1-hyperion-taschenbuch-M02266252585.html">
+             <div class="product__title">
+              Les Cantos d'Hypérion, Tome 1 : Hypérion
+             </div></a><span style="display:block;width:0.2em;min-width:0.2em;height:0.2em;min-height:0.2em"></span>
+            <div class="product__manufacturer">
+             de <a role="button" tabindex="0" href="/,dan-simmons/">Dan Simmons</a>
+            </div><span style="display:block;width:0.2em;min-width:0.2em;height:0.2em;min-height:0.2em"></span>
+            <div class="product__condition">
+             D'occasion - bon état
+            </div><span style="display:block;width:0.2em;min-width:0.2em;height:0.2em;min-height:0.2em"></span>
+           </div>
+           <div class="product__sale">
+            <div role="status" class="label-sale label-sale ">
+             % BONS PLANS
+            </div>
+           </div>
+           <div class="product__pricing">
+            <div>
+             <span class="product__type">Livre</span><span style="display:inline-block;width:4px;min-width:4px;height:4px;min-height:4px"></span><span class="product__price product__price--sale">8,99&nbsp;€</span>
+            </div>
+           </div>
+           <div class="product__footer">
+            <a role="button" tabindex="0" class="btn btn--secondary flex-fixed"><i class="i i-heart i-dark"></i><span class="display-only--lg">Ajouter à la liste des favoris</span></a><a class="add-to-cart add-to-cart__main btn btn--primary " role="button" tabindex="0">Ajouter au panier</a>
+           </div>
+          </div>
+          <hr class="divider">
+          <div class="product__grid">
+           <div class="product__image">
+            <a role="button" tabindex="0" href="/divergente-raconte-par-quatre-taschenbuch-M02266316869.html"><img src="https://images2.medimops.eu/product/58dcac/M02266316869-small.jpg" alt="Divergente raconté par Quatre"></a>
+           </div>
+           <div class="product__description">
+            <a role="button" tabindex="0" href="/divergente-raconte-par-quatre-taschenbuch-M02266316869.html">
+             <div class="product__title">
+              Divergente raconté par Quatre
+             </div></a><span style="display:block;width:0.2em;min-width:0.2em;height:0.2em;min-height:0.2em"></span>
+            <div class="product__manufacturer">
+             de <a role="button" tabindex="0" href="/,x-keine-angabe/">non renseigné</a>
+            </div><span style="display:block;width:0.2em;min-width:0.2em;height:0.2em;min-height:0.2em"></span>
+            <div class="product__condition">
+             D'occasion - bon état
+            </div><span style="display:block;width:0.2em;min-width:0.2em;height:0.2em;min-height:0.2em"></span>
+           </div>
+           <div class="product__pricing">
+            <div>
+             <span class="product__type">Livre</span><span style="display:inline-block;width:4px;min-width:4px;height:4px;min-height:4px"></span><span class="product__price">6,80&nbsp;€</span>
+            </div>
+           </div>
+           <div class="product__footer">
+            <a role="button" tabindex="0" class="btn btn--secondary flex-fixed"><i class="i i-heart i-dark"></i><span class="display-only--lg">Ajouter à la liste des favoris</span></a><a class="add-to-cart add-to-cart__main btn btn--primary " role="button" tabindex="0">Ajouter au panier</a>
+           </div>
+          </div>
+          <hr class="divider">
+          <div class="product__grid">
+           <div class="product__image">
+            <a role="button" tabindex="0" href="/john-gwynne-l-ombre-des-dieux-taschenbuch-M0249340551X.html"><img src="https://images2.medimops.eu/product/33d5f1/M0249340551X-small.jpg" alt="L'ombre des dieux"></a>
+           </div>
+           <div class="product__description">
+            <a role="button" tabindex="0" href="/john-gwynne-l-ombre-des-dieux-taschenbuch-M0249340551X.html">
+             <div class="product__title">
+              L'ombre des dieux
+             </div></a><span style="display:block;width:0.2em;min-width:0.2em;height:0.2em;min-height:0.2em"></span>
+            <div class="product__manufacturer">
+             de <a role="button" tabindex="0" href="/,gwynne-john/">John Gwynne</a>
+            </div><span style="display:block;width:0.2em;min-width:0.2em;height:0.2em;min-height:0.2em"></span>
+            <div class="product__condition">
+             D'occasion - bon état
+            </div><span style="display:block;width:0.2em;min-width:0.2em;height:0.2em;min-height:0.2em"></span>
+           </div>
+           <div class="product__pricing">
+            <div>
+             <span class="product__type">Livre</span><span style="display:inline-block;width:4px;min-width:4px;height:4px;min-height:4px"></span><span class="product__price">22,50&nbsp;€</span>
+            </div>
+           </div>
+           <div class="product__footer">
+            <a role="button" tabindex="0" class="btn btn--secondary flex-fixed"><i class="i i-heart i-dark"></i><span class="display-only--lg">Ajouter à la liste des favoris</span></a><a class="add-to-cart add-to-cart__main btn btn--primary " role="button" tabindex="0">Ajouter au panier</a>
+           </div>
+          </div>
+          <hr class="divider">
+          <div class="product__grid">
+           <div class="product__image">
+            <a role="button" tabindex="0" href="/robin-hobb-l-assassin-royal-deuxieme-epoque-tome-1-taschenbuch-M02290102784.html"><img src="https://images2.medimops.eu/product/3814bd/M02290102784-small.jpg" alt="L'assassin royal, deuxième époque, Tome 1 :"></a>
+           </div>
+           <div class="product__description">
+            <a role="button" tabindex="0" href="/robin-hobb-l-assassin-royal-deuxieme-epoque-tome-1-taschenbuch-M02290102784.html">
+             <div class="product__title">
+              L'assassin royal, deuxième époque, Tome 1 :
+             </div></a><span style="display:block;width:0.2em;min-width:0.2em;height:0.2em;min-height:0.2em"></span>
+            <div class="product__manufacturer">
+             de <a role="button" tabindex="0" href="/,hobb-robin/">Robin Hobb</a>
+            </div><span style="display:block;width:0.2em;min-width:0.2em;height:0.2em;min-height:0.2em"></span>
+            <div class="product__condition">
+             D'occasion - bon état
+            </div><span style="display:block;width:0.2em;min-width:0.2em;height:0.2em;min-height:0.2em"></span>
+           </div>
+           <div class="product__pricing">
+            <div class="responsive-text--12px-16px">
+             Nouveau <span class="text-stroke">16,90&nbsp;€</span>
+            </div>
+            <div class="responsive-text--12px-16px">
+             Vous économisez <!-- -->1,91&nbsp;€<!-- --> (<!-- -->11<!-- -->%)
+            </div>
+            <div>
+             <span class="product__type">Livre</span><span style="display:inline-block;width:4px;min-width:4px;height:4px;min-height:4px"></span><span class="product__price">14,99&nbsp;€</span>
+            </div>
+           </div>
+           <div class="product__footer">
+            <a role="button" tabindex="0" class="btn btn--secondary flex-fixed"><i class="i i-heart i-dark"></i><span class="display-only--lg">Ajouter à la liste des favoris</span></a><a class="add-to-cart add-to-cart__main btn btn--primary " role="button" tabindex="0">Ajouter au panier</a>
+           </div>
+          </div>
+          <hr class="divider">
+          <div class="product__grid">
+           <div class="product__image">
+            <a role="button" tabindex="0" href="/ray-bradbury-chroniques-martiennes-folio-science-fiction-taschenbuch-M02070417743.html"><img src="https://images2.medimops.eu/product/63178f/M02070417743-small.jpg" alt="Chroniques martiennes (Folio Science Fiction)"></a>
+           </div>
+           <div class="product__description">
+            <a role="button" tabindex="0" href="/ray-bradbury-chroniques-martiennes-folio-science-fiction-taschenbuch-M02070417743.html">
+             <div class="product__title">
+              Chroniques martiennes (Folio Science Fiction)
+             </div></a><span style="display:block;width:0.2em;min-width:0.2em;height:0.2em;min-height:0.2em"></span>
+            <div class="product__manufacturer">
+             de <a role="button" tabindex="0" href="/,bradbury-ray/">Ray Bradbury</a>
+            </div><span style="display:block;width:0.2em;min-width:0.2em;height:0.2em;min-height:0.2em"></span>
+            <div class="product__condition">
+             D'occasion - bon état
+            </div><span style="display:block;width:0.2em;min-width:0.2em;height:0.2em;min-height:0.2em"></span>
+           </div>
+           <div class="product__sale">
+            <div role="status" class="label-sale label-sale ">
+             % BONS PLANS
+            </div>
+           </div>
+           <div class="product__pricing">
+            <div class="responsive-text--12px-16px">
+             Nouveau <span class="text-stroke">7,40&nbsp;€</span>
+            </div>
+            <div class="responsive-text--12px-16px">
+             Vous économisez <!-- -->2,91&nbsp;€<!-- --> (<!-- -->39<!-- -->%)
+            </div>
+            <div>
+             <span class="product__type">Livre</span><span style="display:inline-block;width:4px;min-width:4px;height:4px;min-height:4px"></span><span class="product__price product__price--sale">4,49&nbsp;€</span>
+            </div>
+           </div>
+           <div class="product__footer">
+            <a role="button" tabindex="0" class="btn btn--secondary flex-fixed"><i class="i i-heart i-dark"></i><span class="display-only--lg">Ajouter à la liste des favoris</span></a><a class="add-to-cart add-to-cart__main btn btn--primary " role="button" tabindex="0">Ajouter au panier</a>
+           </div>
+          </div>
+          <hr class="divider">
+          <div class="product__grid">
+           <div class="product__image">
+            <a role="button" tabindex="0" href="/erin-hunter-bravelands-tome-1-nouvelle-alliance-1-taschenbuch-M02266323679.html"><img src="https://images2.medimops.eu/product/4d7f9e/M02266323679-small.jpg" alt="Bravelands - Tome 1 Nouvelle alliance (1)"></a>
+           </div>
+           <div class="product__description">
+            <a role="button" tabindex="0" href="/erin-hunter-bravelands-tome-1-nouvelle-alliance-1-taschenbuch-M02266323679.html">
+             <div class="product__title">
+              Bravelands - Tome 1 Nouvelle alliance (1)
+             </div></a><span style="display:block;width:0.2em;min-width:0.2em;height:0.2em;min-height:0.2em"></span>
+            <div class="product__manufacturer">
+             de <a role="button" tabindex="0" href="/,erin-hunter/">Erin Hunter</a>
+            </div><span style="display:block;width:0.2em;min-width:0.2em;height:0.2em;min-height:0.2em"></span>
+            <div class="product__condition">
+             Très bon état - À offrir
+            </div><span style="display:block;width:0.2em;min-width:0.2em;height:0.2em;min-height:0.2em"></span>
+           </div>
+           <div class="product__sale">
+            <div role="status" class="label-sale label-sale ">
+             % BONS PLANS
+            </div>
+           </div>
+           <div class="product__pricing">
+            <div>
+             <span class="product__type">Livre</span><span style="display:inline-block;width:4px;min-width:4px;height:4px;min-height:4px"></span><span class="product__price product__price--sale">7,10&nbsp;€</span>
+            </div>
+           </div>
+           <div class="product__footer">
+            <a role="button" tabindex="0" class="btn btn--secondary flex-fixed"><i class="i i-heart i-dark"></i><span class="display-only--lg">Ajouter à la liste des favoris</span></a><a class="add-to-cart add-to-cart__main btn btn--primary " role="button" tabindex="0">Ajouter au panier</a>
+           </div>
+          </div>
+          <hr class="divider">
+          <div class="product__grid">
+           <div class="product__image">
+            <a role="button" tabindex="0" href="/atlas-illustre-de-tolkien-heroes-taschenbuch-M02017093998.html"><img src="https://images2.medimops.eu/product/1642ac/M02017093998-small.jpg" alt="Atlas illustré de Tolkien (Heroes)"></a>
+           </div>
+           <div class="product__description">
+            <a role="button" tabindex="0" href="/atlas-illustre-de-tolkien-heroes-taschenbuch-M02017093998.html">
+             <div class="product__title">
+              Atlas illustré de Tolkien (Heroes)
+             </div></a><span style="display:block;width:0.2em;min-width:0.2em;height:0.2em;min-height:0.2em"></span>
+            <div class="product__manufacturer">
+             de <a role="button" tabindex="0" href="/,x-keine-angabe/">non renseigné</a>
+            </div><span style="display:block;width:0.2em;min-width:0.2em;height:0.2em;min-height:0.2em"></span>
+            <div class="product__condition">
+             Très bon état - À offrir
+            </div><span style="display:block;width:0.2em;min-width:0.2em;height:0.2em;min-height:0.2em"></span>
+           </div>
+           <div class="product__pricing">
+            <div>
+             <span class="product__type">Livre</span><span style="display:inline-block;width:4px;min-width:4px;height:4px;min-height:4px"></span><span class="product__price">17,99&nbsp;€</span>
+            </div>
+           </div>
+           <div class="product__footer">
+            <a role="button" tabindex="0" class="btn btn--secondary flex-fixed"><i class="i i-heart i-dark"></i><span class="display-only--lg">Ajouter à la liste des favoris</span></a><a class="add-to-cart add-to-cart__main btn btn--primary " role="button" tabindex="0">Ajouter au panier</a>
+           </div>
+          </div>
+          <hr class="divider">
+          <div class="product__grid">
+           <div class="product__image">
+            <a role="button" tabindex="0" href="/bernard-werber-demain-les-chats-roman-taschenbuch-M02253073709.html"><img src="https://images2.medimops.eu/product/7031bb/M02253073709-small.jpg" alt="Demain les chats: Roman"></a>
+           </div>
+           <div class="product__description">
+            <a role="button" tabindex="0" href="/bernard-werber-demain-les-chats-roman-taschenbuch-M02253073709.html">
+             <div class="product__title">
+              Demain les chats: Roman
+             </div></a><span style="display:block;width:0.2em;min-width:0.2em;height:0.2em;min-height:0.2em"></span>
+            <div class="product__manufacturer">
+             de <a role="button" tabindex="0" href="/,bernard-werber/">Bernard Werber</a>
+            </div><span style="display:block;width:0.2em;min-width:0.2em;height:0.2em;min-height:0.2em"></span>
+            <div class="product__condition">
+             D'occasion - bon état
+            </div><span style="display:block;width:0.2em;min-width:0.2em;height:0.2em;min-height:0.2em"></span>
+           </div>
+           <div class="product__sale">
+            <div role="status" class="label-sale label-sale ">
+             % BONS PLANS
+            </div>
+           </div>
+           <div class="product__pricing">
+            <div class="responsive-text--12px-16px">
+             Nouveau <span class="text-stroke">7,30&nbsp;€</span>
+            </div>
+            <div class="responsive-text--12px-16px">
+             Vous économisez <!-- -->1,81&nbsp;€<!-- --> (<!-- -->25<!-- -->%)
+            </div>
+            <div>
+             <span class="product__type">Livre</span><span style="display:inline-block;width:4px;min-width:4px;height:4px;min-height:4px"></span><span class="product__price product__price--sale">5,49&nbsp;€</span>
+            </div>
+           </div>
+           <div class="product__footer">
+            <a role="button" tabindex="0" class="btn btn--secondary flex-fixed"><i class="i i-heart i-dark"></i><span class="display-only--lg">Ajouter à la liste des favoris</span></a><a class="add-to-cart add-to-cart__main btn btn--primary " role="button" tabindex="0">Ajouter au panier</a>
+           </div>
+          </div>
+          <hr class="divider">
+          <div class="product__grid">
+           <div class="product__image">
+            <a role="button" tabindex="0" href="/a-k-mulford-the-five-crowns-livre-1-la-cour-de-la-haute-montagne-taschenbuch-M02375543858.html"><img src="https://images2.medimops.eu/product/a99a42/M02375543858-small.jpg" alt="The Five Crowns - Livre 1 La Cour de la Haute Montagne"></a>
+           </div>
+           <div class="product__description">
+            <a role="button" tabindex="0" href="/a-k-mulford-the-five-crowns-livre-1-la-cour-de-la-haute-montagne-taschenbuch-M02375543858.html">
+             <div class="product__title">
+              The Five Crowns - Livre 1 La Cour de la Haute Montagne
+             </div></a><span style="display:block;width:0.2em;min-width:0.2em;height:0.2em;min-height:0.2em"></span>
+            <div class="product__manufacturer">
+             de <a role="button" tabindex="0" href="/,a-k-mulford/">A.K. Mulford</a>
+            </div><span style="display:block;width:0.2em;min-width:0.2em;height:0.2em;min-height:0.2em"></span>
+            <div class="product__condition">
+             Très bon état - À offrir
+            </div><span style="display:block;width:0.2em;min-width:0.2em;height:0.2em;min-height:0.2em"></span>
+           </div>
+           <div class="product__pricing">
+            <div>
+             <span class="product__type">Livre</span><span style="display:inline-block;width:4px;min-width:4px;height:4px;min-height:4px"></span><span class="product__price">17,96&nbsp;€</span>
+            </div>
+           </div>
+           <div class="product__footer">
+            <a role="button" tabindex="0" class="btn btn--secondary flex-fixed"><i class="i i-heart i-dark"></i><span class="display-only--lg">Ajouter à la liste des favoris</span></a><a class="add-to-cart add-to-cart__main btn btn--primary " role="button" tabindex="0">Ajouter au panier</a>
+           </div>
+          </div>
+          <hr class="divider">
+          <div class="product__grid">
+           <div class="product__image">
+            <a role="button" tabindex="0" href="/isaac-asimov-fondation-et-empire-folio-science-fiction-taschenbuch-M02070360555.html"><img src="https://images2.medimops.eu/product/edfc00/M02070360555-small.jpg" alt="Fondation Et Empire (Folio Science Fiction)"></a>
+           </div>
+           <div class="product__description">
+            <a role="button" tabindex="0" href="/isaac-asimov-fondation-et-empire-folio-science-fiction-taschenbuch-M02070360555.html">
+             <div class="product__title">
+              Fondation Et Empire (Folio Science Fiction)
+             </div></a><span style="display:block;width:0.2em;min-width:0.2em;height:0.2em;min-height:0.2em"></span>
+            <div class="product__manufacturer">
+             de <a role="button" tabindex="0" href="/,asimov-isaac/">Isaac Asimov</a>
+            </div><span style="display:block;width:0.2em;min-width:0.2em;height:0.2em;min-height:0.2em"></span>
+            <div class="product__condition">
+             D'occasion - bon état
+            </div><span style="display:block;width:0.2em;min-width:0.2em;height:0.2em;min-height:0.2em"></span>
+           </div>
+           <div class="product__pricing">
+            <div>
+             <span class="product__type">Livre</span><span style="display:inline-block;width:4px;min-width:4px;height:4px;min-height:4px"></span><span class="product__price">7,70&nbsp;€</span>
+            </div>
+           </div>
+           <div class="product__footer">
+            <a role="button" tabindex="0" class="btn btn--secondary flex-fixed"><i class="i i-heart i-dark"></i><span class="display-only--lg">Ajouter à la liste des favoris</span></a><a class="add-to-cart add-to-cart__main btn btn--primary " role="button" tabindex="0">Ajouter au panier</a>
+           </div>
+          </div>
+          <hr class="divider">
+          <div class="product__grid">
+           <div class="product__image">
+            <a role="button" tabindex="0" href="/bernard-werber-la-diagonale-des-reines-taschenbuch-M02226464786.html"><img src="https://images2.medimops.eu/product/db41ee/M02226464786-small.jpg" alt="La Diagonale des reines"></a>
+           </div>
+           <div class="product__description">
+            <a role="button" tabindex="0" href="/bernard-werber-la-diagonale-des-reines-taschenbuch-M02226464786.html">
+             <div class="product__title">
+              La Diagonale des reines
+             </div></a><span style="display:block;width:0.2em;min-width:0.2em;height:0.2em;min-height:0.2em"></span>
+            <div class="product__manufacturer">
+             de <a role="button" tabindex="0" href="/,bernard-werber/">Bernard Werber</a>
+            </div><span style="display:block;width:0.2em;min-width:0.2em;height:0.2em;min-height:0.2em"></span>
+            <div class="product__condition">
+             D'occasion - bon état
+            </div><span style="display:block;width:0.2em;min-width:0.2em;height:0.2em;min-height:0.2em"></span>
+           </div>
+           <div class="product__pricing">
+            <div>
+             <span class="product__type">Livre</span><span style="display:inline-block;width:4px;min-width:4px;height:4px;min-height:4px"></span><span class="product__price">8,99&nbsp;€</span>
+            </div>
+           </div>
+           <div class="product__footer">
+            <a role="button" tabindex="0" class="btn btn--secondary flex-fixed"><i class="i i-heart i-dark"></i><span class="display-only--lg">Ajouter à la liste des favoris</span></a><a class="add-to-cart add-to-cart__main btn btn--primary " role="button" tabindex="0">Ajouter au panier</a>
+           </div>
+          </div>
+          <hr class="divider">
+          <div class="product__grid">
+           <div class="product__image">
+            <a role="button" tabindex="0" href="/lee-garbett-vers-les-etoiles-skyward-tome-1-taschenbuch-M02253106909.html"><img src="https://images2.medimops.eu/product/304377/M02253106909-small.jpg" alt="Vers les étoiles (Skyward, Tome 1)"></a>
+           </div>
+           <div class="product__description">
+            <a role="button" tabindex="0" href="/lee-garbett-vers-les-etoiles-skyward-tome-1-taschenbuch-M02253106909.html">
+             <div class="product__title">
+              Vers les étoiles (Skyward, Tome 1)
+             </div></a><span style="display:block;width:0.2em;min-width:0.2em;height:0.2em;min-height:0.2em"></span>
+            <div class="product__manufacturer">
+             de <a role="button" tabindex="0" href="/,garbett-lee/">Lee Garbett</a>
+            </div><span style="display:block;width:0.2em;min-width:0.2em;height:0.2em;min-height:0.2em"></span>
+            <div class="product__condition">
+             Très bon état - À offrir
+            </div><span style="display:block;width:0.2em;min-width:0.2em;height:0.2em;min-height:0.2em"></span>
+           </div>
+           <div class="product__pricing">
+            <div>
+             <span class="product__type">Livre</span><span style="display:inline-block;width:4px;min-width:4px;height:4px;min-height:4px"></span><span class="product__price">7,49&nbsp;€</span>
+            </div>
+           </div>
+           <div class="product__footer">
+            <a role="button" tabindex="0" class="btn btn--secondary flex-fixed"><i class="i i-heart i-dark"></i><span class="display-only--lg">Ajouter à la liste des favoris</span></a><a class="add-to-cart add-to-cart__main btn btn--primary " role="button" tabindex="0">Ajouter au panier</a>
+           </div>
+          </div>
+          <hr class="divider">
+          <div class="product__grid">
+           <div class="product__image">
+            <a role="button" tabindex="0" href="/la-pire-soiree-de-ta-vie-taschenbuch-M0B07MJMCFSL.html"><img src="https://images2.medimops.eu/product/ba51aa/M0B07MJMCFSL-small.jpg" alt="La pire soirée de ta vie"></a>
+           </div>
+           <div class="product__description">
+            <a role="button" tabindex="0" href="/la-pire-soiree-de-ta-vie-taschenbuch-M0B07MJMCFSL.html">
+             <div class="product__title">
+              La pire soirée de ta vie
+             </div></a><span style="display:block;width:0.2em;min-width:0.2em;height:0.2em;min-height:0.2em"></span>
+            <div class="product__manufacturer">
+             de <a role="button" tabindex="0" href="/,x-keine-angabe/">non renseigné</a>
+            </div><span style="display:block;width:0.2em;min-width:0.2em;height:0.2em;min-height:0.2em"></span>
+            <div class="product__condition">
+             Très bon état - À offrir
+            </div><span style="display:block;width:0.2em;min-width:0.2em;height:0.2em;min-height:0.2em"></span>
+           </div>
+           <div class="product__pricing">
+            <div>
+             <span class="product__type">Livre</span><span style="display:inline-block;width:4px;min-width:4px;height:4px;min-height:4px"></span><span class="product__price">5,49&nbsp;€</span>
+            </div>
+           </div>
+           <div class="product__footer">
+            <a role="button" tabindex="0" class="btn btn--secondary flex-fixed"><i class="i i-heart i-dark"></i><span class="display-only--lg">Ajouter à la liste des favoris</span></a><a class="add-to-cart add-to-cart__main btn btn--primary " role="button" tabindex="0">Ajouter au panier</a>
+           </div>
+          </div>
+          <hr class="divider">
+         </div>
+         <div class="pagination search-page__pagination">
+          <a class="pagination__item pagination__item--back" href="/livres-fantastique-et-science-fiction-C056/?pgNr=2">Retour</a><a class="pagination__item pagination__item--number" href="/livres-fantastique-et-science-fiction-C056/">1</a><a class="pagination__item pagination__item--number" href="/livres-fantastique-et-science-fiction-C056/?pgNr=1">2</a><a class="pagination__item pagination__item--number" href="/livres-fantastique-et-science-fiction-C056/?pgNr=2">3</a><a class="pagination__item pagination__item--selected pagination__item--number">4</a><a class="pagination__item pagination__item--next pagination__item--number" href="/livres-fantastique-et-science-fiction-C056/?pgNr=4">5</a><a class="pagination__item pagination__item--next pagination__item--number" href="/livres-fantastique-et-science-fiction-C056/?pgNr=5">6</a><a class="pagination__item pagination__item--next pagination__item--number" href="/livres-fantastique-et-science-fiction-C056/?pgNr=6">7</a><a class="pagination__item pagination__item--number" href="/livres-fantastique-et-science-fiction-C056/?pgNr=7">8</a><a class="pagination__item pagination__item--number" href="/livres-fantastique-et-science-fiction-C056/?pgNr=8">9</a><a class="pagination__item pagination__item--number" href="/livres-fantastique-et-science-fiction-C056/?pgNr=9">10</a><a class="pagination__item pagination__item--number" href="/livres-fantastique-et-science-fiction-C056/?pgNr=99">100</a><a class="pagination__item pagination__item--next" href="/livres-fantastique-et-science-fiction-C056/?pgNr=4">Continuer</a>
+         </div>
+         <hr class="display-only--sm separator">
+         <div class="search-page__sliders"></div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="footer">
+     <a class="footer__logo" href="/"><img src="/img/footer/momox-shop-logo1.svg" aria-label="Momox Shop logo" class="footer__logo__svg footer__logo__svg--fra"></a>
+     <div class="footer__grid">
+      <div class="footer__service--service">
+       <div class="content-box">
+        <div class="ox-content ox-content--footer">
+         <h3 class="footer__section__title">Service clients</h3>
+         <div class="footer__section__body">
+          <ul class="footer__section__list">
+           <li><a class="footer__section__link" href="/Contact/" target="_self" rel="noopener"> Contact </a></li>
+           <li><a class="footer__section__link" href="/fr/Questions-fr-quentes/" target="_self" rel="noopener"> Aide </a></li>
+           <li><a class="footer__section__link" href="/fr/Description-d-tat/" target="_self" rel="noopener"> Etat des articles </a></li>
+           <li><a class="footer__section__link" href="/Frais-d-exp-dition/" target="_self" rel="noopener"> Frais de port </a></li>
+           <li><a class="footer__section__link" href="/fr/Sortes-de-paiement/" target="_self" rel="noopener"> Modes de paiement </a></li>
+           <li><a class="footer__section__link" href="/fr/Droit-de-r-tractation/" target="_self" rel="noopener"> Droit de rétractation </a></li>
+           <li><a class="footer__section__link" href="/code-promo/" target="_self" rel="noopener"> Code promo </a></li>
+          </ul>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="footer__service--contact">
+       <div class="content-box">
+        <div class="ox-content ox-content--footer">
+         <h3 class="footer__section__title">Nous contacter</h3>
+         <div class="footer__section__body">
+          <ul class="footer__section__list">
+           <li class="footer__section__list-item"><i class="i i-phone"></i> 01 85 14 99 72</li>
+           <li class="footer__section__list-item">Lundi - Vendredi : 9h - 18h</li>
+          </ul>
+         </div>
+         <br>
+         <div class="footer__section__title" style="margin-top:30px">
+          International
+         </div>
+         <div class="footer__section__body">
+          <ul>
+           <li class="footer__section__list-item"><i class="i fr-flag"></i> <a class="footer__section__link" href="https://medimops.de" target="_blank" rel="noopener">medimops.de</a></li>
+          </ul>
+          <div class="footer__section__title" style="margin-top:30px">
+           Nos Marques
+          </div>
+          <div class="footer__section__body">
+           <ul>
+            <li class="footer__section__list-item"><a class="footer__section__link" href="https://www.momoxfashion.com/fr/" target="_blank" rel="noopener">www.momoxfashion.com</a></li>
+           </ul>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="footer__service--trust">
+       <div class="content-box">
+        <div class="ox-content ox-content--footer">
+         <h3 class="footer__section__title">Commande sécurisée</h3>
+         <div class="footer__section__body">
+          <ul>
+           <li><a class="footer__section__link" href="https://www.trustedshops.com/tsdocument/PROTECTION_TERMS_COMPLETE_fr.pdf#fifth_aspect" target="_blank" rel="noopener">Boutique en ligne examinée avec protection acheteur</a></li>
+           <li>Marchandises d'occasion certifiées</li>
+           <li>Transfert de données sécurisé</li>
+          </ul>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="footer__service--aboutus">
+       <div class="content-box">
+        <div class="ox-content ox-content--footer">
+         <h3 class="footer__section__title">À propos</h3>
+         <div class="footer__section__body">
+          <ul class="footer__section__list">
+           <li><a class="footer__section__link" href="/fr/Mentions-l-gales/" target="_blank" rel="noopener">Mentions légales</a></li>
+           <li><a class="footer__section__link" href="/fr/Protection-des-donn-es/" target="_blank" rel="noopener">Protection des données</a></li>
+           <li><a class="footer__section__link" href="/fr/CGV/" target="_blank" rel="noopener">CGV</a></li>
+           <li><a class="footer__section__link" href="/programme-affiliation-momox-shop/" target="_blank" rel="noopener">Devenez partenaire</a></li>
+          </ul>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="footer__newsletter footer__section">
+       <div class="ox-content ox-content--footer">
+        <h3 class="footer__section__title">Newsletter</h3>
+        <div class="footer__section__body">
+         Promotions, bons d’achat et bien plus encore ! Abonnez-vous à notre newsletter et recevez une réduction exceptionnelle de 10 % sur votre prochain achat. En vous abonnant à la newsletter, vous acceptez que vos données soient utilisées à des fins de suivi de la newsletter et de publicité cross-canal par des partenaires publicitaires, afin de vous proposer des recommandations et des publicités personnalisées. Le consentement peut être révoqué à tout moment avec effet pour l’avenir. Pour plus d’informations, consultez notre déclaration de protection des données..
+        </div>
+       </div>
+       <form class="newsletter-form">
+        <div></div><input type="email" class="newsletter-form__textfield form-group--first" value="" placeholder="Inscrivez-vous à la newsletter"><button class="btn btn--primary btn--compact form-group--last" type="submit">Souscrire</button>
+       </form>
+      </div>
+      <div class="footer__social">
+       <div class="footer__section__title">
+        Vous pouvez également nous trouver ici
+       </div>
+       <div class="footer__section__body">
+        <ul class="social-box__list">
+         <li><a class="social-box__icon" aria-label="instagram" href="https://www.instagram.com/momox.france/"><img src="/img/footer/footer-social-media-instagram1.svg" aria-label="Instagram icon" class="social-box__svg"></a></li>
+         <li><a class="social-box__icon" aria-label="facebook" href="https://www.facebook.com/momox.fr/"><img src="/img/footer/footer-social-media-facebook1.svg" aria-label="Facebook icon" class="social-box__svg"></a></li>
+        </ul>
+       </div>
+      </div>
+      <div class="footer__platform-links">
+       <div class="platform-links">
+        <div class="footer__section__title">
+         Envie d'en découvrir plus?
+        </div>
+        <div class="footer__section__body">
+         <ul class="platform-links__list">
+          <li class="platform-links__list-item"><a href="https://www.momox.fr/" class="platform-links__link"><span class="platform-links__item__text">Vendre des livres et des médias</span></a></li>
+         </ul>
+        </div>
+       </div>
+      </div>
+      <div class="footer__icons-payment">
+       <div class="footer__section__title">
+        Moyens de paiement
+       </div>
+       <div class="footer__section__body">
+        <div class="payment-provider-brands footer__payment">
+         <img src="/img/svg/paypal.svg" aria-label="paypal" class="brand-icon  brand-icon--paypal"><img src="/img/svg/visa.svg" aria-label="visa" class="brand-icon  brand-icon--visa"><img src="/img/svg/mastercard.svg" aria-label="mastercard" class="brand-icon  brand-icon--mastercard"><img src="/img/svg/amex.svg" aria-label="amex" class="brand-icon  brand-icon--amex"><img src="/img/svg/cartebleue.svg" aria-label="cartebleue" class="brand-icon  brand-icon--cartebleue">
+        </div>
+       </div>
+      </div>
+      <div class="footer__icons-shipping">
+       <div class="footer__section__title">
+        Modes de livraison
+       </div>
+       <div class="footer__section__body">
+        <div class="shipping-provider-brands footer__shipping">
+         <img src="/img/svg/la-poste-logo.svg" aria-label="laposte" class="brand-icon  brand-icon--laposte">
+        </div>
+       </div>
+      </div>
+     </div>
+     <div class="bottom-line footer__bottomline">
+      <ul class="bottom-line__navigation-list footer__section__title">
+       <li><a href="/fr/Mentions-l-gales/">Mentions légales</a></li>
+       <li><a href="/fr/CGV/">Termes et conditions</a></li>
+       <li><a href="/fr/Protection-des-donn-es/">Protection des données</a></li>
+      </ul>
+      <p>© 2023 momox SE Berlin. Achetez des CD, DVD, livres, films et jeux d'occasion à bas prix et en toute sécurité en ligne.</p>
+     </div>
+    </div>
+   </div>
+  </div>
+ </body>
+</html>
