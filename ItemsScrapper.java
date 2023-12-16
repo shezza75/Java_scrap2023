@@ -17,6 +17,7 @@ public final class ItemsScrapper {
       int i = 0; 
       int fin_T = 0;
       int fin_A =  0;
+      int fin_E = 0;
       while (true) {
         
         // Titre 
@@ -40,6 +41,15 @@ public final class ItemsScrapper {
         
         String auteur = pageSource.substring(debut_A+1, fin_A);
 
+        //Etat
+
+        int debut_E=pageSource.indexOf("product__condition",fin_E)+"product__condition".length()+2;
+        fin_E=pageSource.indexOf("<", debut_E);
+
+        String etat=pageSource.substring(debut_E,fin_E);
+
+
+
 
 
         
@@ -48,9 +58,7 @@ public final class ItemsScrapper {
 
 
       // add code here
-      /* Idee : Faire un substring  pour eliminer tous ce qui se trouve dans le header et le footer 
-      <div class="product__title"> juste après, on trouve le titre de l'oeuvre
-      Auteur après <div class="product__manufacturer">
+      /* Idee :
       etat après <div class="product__condition"> 
       Physique_Audio après <span class="product__type">
       Prix après <span class="product__price">
@@ -71,7 +79,7 @@ public final class ItemsScrapper {
         item.setTitre(titre);
         item.setAuteur(auteur);
         item.setPrix(null);
-        item.setEtat(null);
+        item.setEtat(etat);
         item.setPhysique_Audio(null);
         itemList.add(item);
 
