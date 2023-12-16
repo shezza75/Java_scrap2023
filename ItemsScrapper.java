@@ -18,6 +18,7 @@ public final class ItemsScrapper {
       int fin_T = 0;
       int fin_A =  0;
       int fin_E = 0;
+      int fin_P=0;
       while (true) {
         
         // Titre 
@@ -48,18 +49,22 @@ public final class ItemsScrapper {
 
         String etat=pageSource.substring(debut_E,fin_E);
 
+        // Physique_Audio
+
+        int debut_P=pageSource.indexOf("product__type",fin_P)+"product__type".length()+2;
+        fin_P=pageSource.indexOf("<", debut_P);
+
+        String audio=pageSource.substring(debut_P,fin_P);
+
+        
+
 
 
 
 
         
         
-        
-
-
-      // add code here
-      /* Idee :
-      etat après <div class="product__condition"> 
+      /* Idee : 
       Physique_Audio après <span class="product__type">
       Prix après <span class="product__price">
       
@@ -80,10 +85,10 @@ public final class ItemsScrapper {
         item.setAuteur(auteur);
         item.setPrix(null);
         item.setEtat(etat);
-        item.setPhysique_Audio(null);
+        item.setPhysique_Audio(audio);
         itemList.add(item);
 
-        if (i==100){          // A changer quand on a recup toutes les données 
+        if (i==146){          // A changer quand on a recup toutes les données 
           // on a fini d'extraire les item
           break;
           }
