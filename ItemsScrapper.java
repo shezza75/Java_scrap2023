@@ -34,6 +34,16 @@ public final class ItemsScrapper {
         }
         String titre = pageSource.substring(debut_T, fin_T);
 
+        // Titre sans espace avant 
+
+        Character a = titre.charAt(1);        
+        while(a==(' ')){
+          titre = titre.substring(1,titre.length());
+          a = titre.charAt(1);
+          System.out.println(titre);
+        }
+        titre = titre.substring(1,titre.length());
+        
         //Auteur
 
         int balise_A=pageSource.indexOf("product__manufacturer",fin_A)+"product__manufacturer".length()+2;
@@ -88,7 +98,7 @@ public final class ItemsScrapper {
         item.setPhysique_Audio(audio);
         itemList.add(item);
 
-        if (i==146){          // A changer quand on a recup toutes les données 
+        if (i==149){          // A changer quand on a recup toutes les données 
           // on a fini d'extraire les item
           break;
           }
