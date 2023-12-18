@@ -56,23 +56,79 @@ public final class ItemAnalyzer {
 
   public Integer getNb_Lettres_Moyens_Arr() {
     String listitre = "";
+    String alphabet="abcdefghijklmnopqrstuvwxyzéèàâêôûîäëïöüABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789ÄËÜÏÖÂÊÛÎÔ";
     for(Item item : items){
       
       String vraitem = item.getTitre();
-      listitre += vraitem;
+      for(int i=0; i<vraitem.length();i++){
+        Character teste = vraitem.charAt(i);
+        int lettre=alphabet.indexOf(teste);
+        if(lettre!=-1){
+        String lString = Character.toString(teste);
+        listitre+=lString;
+        }
+      }
+       
     }
     listitre = listitre.replace(" ", "");
     return  (int) Math.ceil(listitre.length()/146);
   }
 
   public ArrayList<Double> getMoyenne_Prix_Etat() {
-    // code here
-    return null;
+    int NbLivreN=0;
+    int NbLivreTBE=0;
+    int NbLivreO=0;
+
+    double SumpN=0;
+    double SumpTBE=0;
+    double SumpO=0;
+    for(Item item : items){
+      String vraitem = item.getEtat();
+      Double vraiprix=item.getPrix();
+      
+      if(!(vraitem.indexOf("Comme neuf - À offrir")==-1)){
+        NbLivreN+=1;
+        SumpN += vraiprix;
+      }
+      if(!(vraitem.indexOf("Très bon état - À offrir")==-1)){
+        NbLivreTBE+=1;
+        SumpTBE += vraiprix;
+      }
+      if(!(vraitem.indexOf("D'occasion - bon état")==-1)){
+        NbLivreO+=1;
+        SumpO += vraiprix;
+      }
+
+  }
+  ArrayList<Double> MoyenneEtat= new ArrayList<>();
+  Double moyN= SumpN/NbLivreN;
+  Double moyTBE= SumpTBE/NbLivreTBE;
+  Double moyO= SumpO/NbLivreO;
+  moyN = Math.round(moyN*100.0)/100.0;
+  moyO = Math.round(moyO*100.0)/100.0;
+  moyTBE = Math.round(moyTBE*100.0)/100.0;
+  
+  MoyenneEtat.add(moyN);
+  MoyenneEtat.add(moyTBE);
+  MoyenneEtat.add(moyO);
+
+    return MoyenneEtat;
   }
 
   public Double getPart_Livre_Audio() {
 
-    // code here
-    return null;
+    Double nb_Audio=0.0;
+    Double tot = 0.0;
+    for(Item item : items){
+      String vraitem = item.getPhysique_Audio();
+      tot++;
+      
+       if(vraitem.indexOf("Livre audio")!=-1){
+        nb_Audio++;
+       }
+    }
+    Double part_Audio = nb_Audio/tot;
+    part_Audio = Math.round(part_Audio*100.0)/100.0;
+    return part_Audio;
   }
 }
