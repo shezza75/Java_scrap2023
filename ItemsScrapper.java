@@ -66,7 +66,7 @@ public final class ItemsScrapper {
         while(a_E==(' ')){
           etat = etat.substring(1,etat.length());
           a_E=etat.charAt(1);
-          System.out.println(etat);
+          //System.out.println(etat);
         } 
         etat = etat.substring(1,etat.length());
 
@@ -76,11 +76,20 @@ public final class ItemsScrapper {
         int debut_Prix=0; //comme on a deux debut different, celui ci sera le debut final
         int debut_P1=pageSource.indexOf("product__price",fin_Prix)+"product__price".length()+2; //debut possilble de prix 1
         int debut_P2=pageSource.indexOf("--sale",fin_Prix)+"--sale".length()+2; //debut possible de prix 2
+        
+        
         int teste=debut_P1+1; //(javais pas d'idée de nom de variable), c'est pour avoir l'idx du caractere juste apres le debut_1
         String cs1=pageSource.substring(debut_P1, teste); //sert a avoir le caractere juste apres en string
         int idxcs1=pageSource.indexOf(cs1); //jPour avoir l'idx du string que je viens de créer, si je met teste ça marche pas
-        Character charcs1=pageSource.charAt(idxcs1); //je le transforme en caractere pour pouvoir l'analyser 
-
+        Character charcs1=pageSource.charAt(idxcs1);
+        /*int teste2=debut_P2+1;
+        Character charcs2=pageSource.charAt(teste2);
+        System.out.println();
+        if(Character.isDigit(charcs2)){ //ici je vérifie que me caractere est un chiffre, le premier chiffre du prix 
+           debut_Prix=debut_P2;//si c'est un chiffre alors j'ai le bon début
+        }*/
+        
+        
         
         if(Character.isDigit(charcs1)){ //ici je vérifie que me caractere est un chiffre, le premier chiffre du prix 
            debut_Prix=debut_P1;//si c'est un chiffre alors j'ai le bon début
@@ -89,12 +98,12 @@ public final class ItemsScrapper {
           debut_Prix=debut_P2;
           //Sinon c'est l'autre
         }
-
+      fin_Prix=pageSource.indexOf("&",debut_Prix); 
+      String ps=pageSource.substring(debut_Prix, fin_Prix);
+      Double prix= Double.parseDouble(ps.replace(',', '.'));
+      
+   
         
-      fin_P=pageSource.indexOf("&",debut_Prix); 
-      String ps=pageSource.substring(debut_Prix, fin_P);
-      Double prix= Double.parseDouble(ps.replace(',', '.')); //le changer de String a Double en remplacer la ',' par '.'
-
         
 
 
@@ -115,7 +124,7 @@ public final class ItemsScrapper {
         item.setPhysique_Audio(audio);
         itemList.add(item);
 
-        if (i==148){          // PASSSS 149 pitié sinon marche pas
+        if (i==146){          // laissé 146  pitié sinon marche pas !!!!!!!
           // on a fini d'extraire les item
           break;
           }
